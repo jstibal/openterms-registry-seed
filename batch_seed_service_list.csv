@@ -1,0 +1,327 @@
+service,bucket,collection,has_scraping,has_api,has_training,has_consent,has_bot
+AdSense,trivial,contrib-versions,no,no,no,no,no
+Airon,trivial,genai-contrib-versions,no,no,no,no,yes
+Allrecipes,trivial,contrib-versions,no,no,no,no,no
+Apple Game Center,trivial,contrib-versions,no,no,no,no,no
+Badoo,trivial,contrib-versions,no,no,no,no,yes
+BankID,trivial,contrib-versions,no,no,no,no,no
+Base,trivial,contrib-versions,no,no,no,no,no
+BeReal,trivial,pga-versions,no,no,no,no,yes
+Better Stack,trivial,contrib-versions,no,no,no,no,no
+Binance,trivial,contrib-versions,no,no,no,no,no
+Bitwarden,trivial,contrib-versions,no,no,no,yes,yes
+Bolt,trivial,contrib-versions,no,no,no,no,no
+Chrome and Chrome OS,trivial,contrib-versions,no,no,no,no,no
+Deutsche Bahn,trivial,contrib-versions,no,no,no,no,yes
+Energia,trivial,contrib-versions,no,no,no,yes,yes
+Epassi,trivial,contrib-versions,no,no,no,no,no
+FedEx,trivial,contrib-versions,no,no,no,yes,no
+Firefox,trivial,contrib-versions,no,no,no,no,no
+Firefox Monitor,trivial,contrib-versions,no,no,no,no,no
+Frank,trivial,contrib-versions,no,no,no,yes,yes
+Freja eID,trivial,contrib-versions,no,no,no,no,no
+Glass,trivial,contrib-versions,no,no,no,no,yes
+Gofile,trivial,contrib-versions,no,no,no,no,no
+Gumb,trivial,contrib-versions,no,no,no,no,no
+HSBC,trivial,contrib-versions,no,no,no,yes,yes
+Ikea,trivial,contrib-versions,no,no,no,no,yes
+Imgur,trivial,contrib-versions,no,no,no,no,no
+Kbin,trivial,contrib-versions,no,no,no,no,no
+Kivra,trivial,contrib-versions,no,no,no,yes,no
+LibraryThing,trivial,contrib-versions,no,no,no,no,no
+Liquid AI,trivial,genai-contrib-versions,no,no,no,yes,yes
+Lydia,trivial,contrib-versions,no,no,no,no,no
+Mullvad,trivial,contrib-versions,no,no,no,no,yes
+National Geographic,trivial,contrib-versions,no,no,no,no,yes
+Nissan,trivial,contrib-versions,no,no,no,no,no
+O'Reilly,trivial,contrib-versions,no,no,no,yes,no
+OnlyFans,trivial,contrib-versions,no,no,no,yes,yes
+Outbrain,trivial,contrib-versions,no,no,no,no,no
+Palantir,trivial,contrib-versions,no,no,no,yes,no
+Parler,trivial,contrib-versions,no,no,no,no,no
+Play,trivial,contrib-versions,no,no,no,no,no
+PlayStation Network,trivial,contrib-versions,no,no,no,yes,yes
+Polyfill.io,trivial,contrib-versions,no,no,no,no,yes
+Proton Mail,trivial,contrib-versions,no,no,no,no,yes
+ProtonMail,trivial,contrib-versions,no,no,no,no,yes
+ProtonVPN,trivial,contrib-versions,no,no,no,no,yes
+PubMatic,trivial,contrib-versions,no,no,no,yes,yes
+Qiwi.gg,trivial,contrib-versions,no,no,no,no,no
+Revolt,trivial,contrib-versions,no,no,no,no,no
+Scalingo,trivial,contrib-versions,no,no,no,no,no
+Shockwave.com,trivial,contrib-versions,no,no,no,yes,yes
+Sonic.net,trivial,contrib-versions,no,no,no,yes,yes
+Streamable,trivial,contrib-versions,no,no,no,yes,yes
+Tencent,trivial,contrib-versions,no,no,no,no,no
+The Reach Group,trivial,contrib-versions,no,no,no,yes,yes
+The Register,trivial,contrib-versions,no,no,no,no,yes
+Thryv YellowPages,trivial,contrib-versions,no,no,no,no,no
+TikTok,trivial,,no,no,no,no,no
+Tildes,trivial,contrib-versions,no,no,no,no,no
+Toyota Connected Services,trivial,contrib-versions,no,no,no,yes,yes
+Tresorit,trivial,contrib-versions,no,no,no,yes,yes
+Uschovna.cz,trivial,contrib-versions,no,no,no,no,no
+UserDrive.com,trivial,contrib-versions,no,no,no,no,no
+Viaplay,trivial,contrib-versions,no,no,no,no,yes
+Visible,trivial,contrib-versions,no,no,no,yes,yes
+VocabularySpellingCity,trivial,contrib-versions,no,no,no,no,no
+Vodafone.ie,trivial,contrib-versions,no,no,no,no,no
+WPEngine,trivial,contrib-versions,no,no,no,yes,yes
+WaterHavens,trivial,contrib-versions,no,no,no,no,no
+WeChat Open Platform,trivial,contrib-versions,no,no,no,no,no
+Webcrawler,trivial,contrib-versions,no,no,no,no,no
+Wenxinyiyan,trivial,genai-contrib-versions,no,no,no,no,no
+Windstream,trivial,contrib-versions,no,no,no,no,yes
+Wix,trivial,contrib-versions,no,no,no,no,yes
+World Market,trivial,contrib-versions,no,no,no,yes,no
+Xing,trivial,contrib-versions,no,no,no,no,yes
+Yuka,trivial,contrib-versions,no,no,no,no,no
+hide.me VPN,trivial,contrib-versions,no,no,no,yes,yes
+meet.jit.si,trivial,contrib-versions,no,no,no,yes,no
+sony.com,trivial,contrib-versions,no,no,no,yes,no
+thomsonreuters.com,trivial,contrib-versions,no,no,no,yes,no
+Amazon Advertising,template,contrib-versions,yes,yes,yes,yes,yes
+Amazon Appstore,template,contrib-versions,no,no,no,no,no
+Amazon Coins,template,contrib-versions,no,no,no,no,no
+Amazon Device,template,contrib-versions,no,no,yes,no,no
+Amazon E-Reader and Fire Tablet,template,contrib-versions,no,no,no,no,no
+Amazon Kindle Store,template,contrib-versions,no,no,no,no,no
+Amazon Maps,template,contrib-versions,no,no,no,no,no
+Amazon Monthly Payments,template,contrib-versions,no,no,no,no,no
+Amazon Music,template,contrib-versions,no,no,yes,no,no
+Amazon Photos,template,contrib-versions,no,no,no,no,no
+Amazon Prime,template,contrib-versions,no,no,no,no,yes
+Amazon Publisher,template,contrib-versions,no,no,no,yes,yes
+Amazon Silk,template,contrib-versions,no,no,yes,no,no
+Google APIs,template,contrib-versions,yes,yes,no,yes,no
+Google Ads,template,contrib-versions,no,yes,no,yes,yes
+Google Analytics,template,contrib-versions,no,no,no,yes,no
+Google Antigravity,template,contrib-versions,no,no,yes,no,no
+Google Calendar,template,contrib-versions,yes,yes,yes,no,yes
+Google Cloud Platform,template,contrib-versions,no,yes,no,yes,yes
+Google Contributor,template,contrib-versions,no,yes,no,no,no
+Google Data Studio,template,contrib-versions,no,no,no,yes,no
+Google Drive,template,contrib-versions,no,yes,no,no,no
+Google Earth,template,contrib-versions,no,yes,no,no,no
+Google Flights,template,contrib-versions,no,no,no,no,no
+Google Generative AI Services,template,genai-contrib-versions,yes,yes,yes,no,yes
+Google Manufacturer Center,template,contrib-versions,yes,no,no,no,no
+Google Maps,template,contrib-versions,no,yes,no,no,no
+Google Merchant Center,template,contrib-versions,yes,yes,no,no,no
+Google My Business,template,contrib-versions,no,no,no,no,no
+Google Nest,template,contrib-versions,no,no,no,no,no
+Google One,template,contrib-versions,no,no,no,no,no
+Google Pay,template,contrib-versions,no,yes,no,no,no
+Google Play,template,contrib-versions,no,no,no,no,no
+Google Tag Manager,template,contrib-versions,no,no,no,no,no
+Google Voice,template,contrib-versions,no,no,no,no,no
+Google for Nonprofits,template,contrib-versions,no,no,no,no,no
+ASKfm,simple,contrib-versions,yes,no,no,yes,yes
+ASUS,simple,contrib-versions,yes,no,no,no,yes
+AdRoll,simple,contrib-versions,no,yes,no,yes,yes
+Airbnb,simple,,yes,no,no,no,yes
+Alpha Vantage,simple,contrib-versions,no,yes,no,yes,yes
+Arc,simple,contrib-versions,yes,no,no,yes,yes
+BRED Access,simple,contrib-versions,no,yes,no,no,no
+CafeMom,simple,contrib-versions,yes,no,no,yes,yes
+Cdiscount,simple,contrib-versions,no,yes,no,no,no
+Cloudant,simple,contrib-versions,yes,no,no,yes,yes
+Coindesk,simple,contrib-versions,yes,no,no,yes,yes
+CommentCaMarche,simple,contrib-versions,no,yes,no,no,no
+Couchsurfing,simple,contrib-versions,yes,no,no,yes,yes
+Criteo,simple,contrib-versions,no,yes,no,yes,yes
+CrowdTangle,simple,contrib-versions,no,yes,no,yes,yes
+Crunchyroll,simple,contrib-versions,yes,no,no,yes,yes
+Deliveroo,simple,contrib-versions,no,yes,no,yes,yes
+Disqus,simple,contrib-versions,no,yes,no,yes,yes
+DistroKid,simple,contrib-versions,yes,no,no,yes,yes
+Doubao,simple,genai-contrib-versions,no,yes,no,no,no
+Ethereum,simple,contrib-versions,yes,no,no,yes,yes
+Facebook Ads,simple,contrib-versions,no,yes,no,no,no
+Facebook Payments,simple,contrib-versions,no,yes,no,no,yes
+Goodreads,simple,contrib-versions,yes,no,no,yes,yes
+GraphCMS,simple,contrib-versions,no,yes,no,yes,no
+Hearst.com,simple,contrib-versions,yes,no,no,yes,yes
+Honkai- Star Rail,simple,contrib-versions,yes,no,no,yes,yes
+Hygraph,simple,contrib-versions,no,yes,no,yes,no
+IKEA Family,simple,contrib-versions,no,yes,no,no,no
+IPinfo,simple,contrib-versions,yes,no,no,yes,yes
+Intric,simple,genai-contrib-versions,no,yes,no,yes,yes
+Jacksfilms,simple,contrib-versions,yes,no,no,no,no
+Jeeng,simple,contrib-versions,yes,no,no,no,yes
+LINE,simple,contrib-versions,no,yes,no,yes,yes
+Last.fm,simple,contrib-versions,no,yes,no,yes,yes
+Limitless,simple,contrib-versions,yes,no,no,yes,yes
+Linear,simple,contrib-versions,no,yes,no,yes,yes
+Lingualeo,simple,contrib-versions,no,yes,no,no,yes
+Logitech,simple,contrib-versions,yes,no,no,yes,yes
+Meetup,simple,contrib-versions,no,yes,no,yes,yes
+MouthShut,simple,contrib-versions,yes,no,no,yes,yes
+Nous Research chat,simple,genai-contrib-versions,no,yes,no,yes,no
+OKX,simple,contrib-versions,no,yes,no,yes,yes
+OVHcloud,simple,contrib-versions,no,yes,no,no,yes
+Olvid,simple,contrib-versions,no,yes,no,no,yes
+Optimize,simple,contrib-versions,no,yes,no,no,no
+Palia,simple,contrib-versions,no,yes,no,yes,yes
+Persumi,simple,contrib-versions,yes,no,no,yes,yes
+Qobuz,simple,contrib-versions,no,yes,no,no,yes
+Qwant,simple,contrib-versions,no,yes,no,no,no
+Reserve with Google,simple,contrib-versions,no,yes,no,no,no
+RueduCommerce.fr,simple,contrib-versions,no,yes,no,no,no
+SNCF Pro,simple,contrib-versions,no,yes,no,no,no
+SOUNDRAW,simple,genai-contrib-versions,no,yes,no,yes,no
+SambaNova,simple,genai-contrib-versions,yes,no,no,yes,yes
+Scribe,simple,genai-contrib-versions,yes,no,no,yes,yes
+Simpli.fi,simple,contrib-versions,no,yes,no,yes,yes
+Speechify,simple,genai-contrib-versions,no,yes,no,yes,yes
+Spotify,simple,,no,yes,no,no,no
+Stadia,simple,contrib-versions,no,yes,no,no,yes
+SurveyMonkey,simple,contrib-versions,no,yes,no,yes,yes
+TP-Link,simple,contrib-versions,yes,no,no,yes,yes
+Tchap,simple,contrib-versions,no,yes,no,no,no
+Tp-link,simple,contrib-versions,yes,no,no,yes,yes
+TruthSocial,simple,pga-versions,yes,no,no,yes,yes
+Upscrolled,simple,pga-versions,no,yes,no,no,yes
+UrbanDictionary.com,simple,contrib-versions,no,yes,no,no,yes
+ValueImpression,simple,contrib-versions,yes,no,no,no,yes
+Vanco Payment Solutions,simple,contrib-versions,yes,no,no,yes,yes
+We Heart It,simple,contrib-versions,yes,no,no,yes,yes
+WeChat,simple,contrib-versions,no,yes,no,yes,yes
+WebProNews,simple,contrib-versions,yes,no,no,yes,yes
+WhatsApp,simple,contrib-versions,no,yes,no,yes,yes
+Wire,simple,contrib-versions,yes,no,no,yes,yes
+Wordfeud,simple,contrib-versions,yes,no,no,yes,yes
+Wordtune,simple,genai-contrib-versions,no,yes,no,yes,no
+Xfinity Residential Services,simple,contrib-versions,no,yes,no,no,yes
+Youtube Kids,simple,contrib-versions,yes,no,no,no,yes
+Zora,simple,contrib-versions,no,yes,no,yes,yes
+iCloud,simple,contrib-versions,yes,no,no,no,no
+ironSource,simple,contrib-versions,yes,no,no,yes,yes
+timeanddate.com,simple,contrib-versions,no,yes,no,no,no
+ubuntu.com,simple,contrib-versions,no,yes,no,no,no
+vidguard.to,simple,contrib-versions,yes,no,no,yes,yes
+Academia.edu,complex,contrib-versions,yes,yes,yes,yes,yes
+AcuityAds,complex,contrib-versions,no,yes,yes,yes,yes
+AdSupply,complex,contrib-versions,yes,yes,no,yes,yes
+Alexa,complex,contrib-versions,no,no,yes,no,no
+Alibaba.com,complex,contrib-versions,yes,yes,no,yes,yes
+Amazon.com,complex,contrib-versions,yes,no,yes,yes,yes
+Apple Business Connect,complex,contrib-versions,yes,yes,yes,yes,no
+ArtStation,complex,contrib-versions,yes,no,yes,yes,yes
+BBC,complex,,no,no,yes,no,no
+Bandcamp,complex,contrib-versions,no,no,yes,yes,yes
+Bardeen,complex,genai-contrib-versions,yes,no,yes,yes,yes
+Berget AI,complex,genai-contrib-versions,yes,yes,no,yes,yes
+Blogger,complex,contrib-versions,yes,yes,yes,no,yes
+Bolt Drivers,complex,contrib-versions,no,no,yes,yes,yes
+Bolt.new,complex,genai-contrib-versions,yes,yes,no,no,yes
+CNN International,complex,contrib-versions,yes,no,yes,no,yes
+ChatGPT,complex,genai-contrib-versions,no,yes,yes,no,no
+Civitai,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+Claude.ai,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+Codeium,complex,genai-contrib-versions,yes,no,yes,yes,yes
+Copy.AI,complex,genai-contrib-versions,yes,yes,no,yes,yes
+DALL·E,complex,genai-contrib-versions,no,yes,yes,no,no
+Daily Mail,complex,contrib-versions,yes,yes,yes,no,yes
+DeviantArt,complex,contrib-versions,yes,yes,yes,yes,yes
+Dune,complex,contrib-versions,yes,yes,yes,yes,yes
+Facebook,complex,,yes,yes,yes,no,yes
+Financial Times,complex,contrib-versions,no,no,yes,no,yes
+Fireworks AI,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+Flickr,complex,contrib-versions,yes,yes,no,yes,yes
+Foursquare,complex,contrib-versions,yes,yes,no,yes,no
+Fox News,complex,contrib-versions,yes,yes,yes,yes,yes
+Gartner,complex,contrib-versions,yes,no,yes,yes,yes
+GitHub,complex,,yes,yes,yes,no,yes
+GitHub Copilot,complex,genai-contrib-versions,no,yes,yes,yes,yes
+Glassdoor,complex,contrib-versions,yes,yes,yes,yes,yes
+Gmail,complex,contrib-versions,yes,yes,yes,no,yes
+Google,complex,,yes,yes,yes,no,no
+Grok,complex,genai-contrib-versions,no,yes,yes,no,yes
+Guilded,complex,contrib-versions,yes,no,yes,yes,yes
+HackerOne,complex,contrib-versions,no,yes,yes,no,yes
+Hugging Face,complex,contrib-versions,no,no,yes,yes,no
+IGN Entertainment,complex,contrib-versions,yes,no,yes,yes,yes
+IMDb,complex,contrib-versions,yes,yes,no,yes,yes
+Incredible,complex,genai-contrib-versions,no,yes,yes,yes,yes
+IndieGala,complex,contrib-versions,yes,yes,no,yes,yes
+Kick,complex,contrib-versions,yes,yes,no,yes,yes
+Kimi AI,complex,genai-contrib-versions,no,no,yes,yes,no
+Kraken,complex,contrib-versions,yes,yes,no,yes,yes
+Le Chat,complex,genai-contrib-versions,no,yes,yes,yes,yes
+LinkedIn,complex,,yes,yes,no,yes,no
+LiveJournal,complex,contrib-versions,yes,yes,no,no,yes
+Llama API,complex,genai-contrib-versions,no,yes,yes,yes,yes
+Local Guides,complex,contrib-versions,yes,yes,no,no,yes
+Lovable,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+MSN,complex,contrib-versions,no,yes,yes,no,yes
+Mailjet,complex,contrib-versions,no,yes,yes,yes,yes
+MediaFire,complex,contrib-versions,yes,yes,no,no,yes
+Microsoft,complex,contrib-versions,no,yes,yes,no,yes
+Microsoft Copilot,complex,genai-contrib-versions,no,yes,yes,no,yes
+Microsoft Store,complex,contrib-versions,no,yes,yes,no,yes
+Mix,complex,contrib-versions,yes,yes,no,yes,yes
+Moltbook,complex,pga-versions,yes,yes,yes,yes,yes
+Murf,complex,genai-contrib-versions,yes,no,yes,yes,yes
+Myspace,complex,contrib-versions,yes,yes,no,yes,yes
+Netflix,complex,,yes,no,yes,no,no
+Ning,complex,contrib-versions,yes,yes,no,yes,yes
+NordVPN,complex,contrib-versions,yes,yes,no,yes,yes
+OkCupid,complex,contrib-versions,yes,yes,no,yes,yes
+OpenAI,complex,,yes,yes,yes,no,no
+OpenRouter,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+OpenSea,complex,contrib-versions,yes,yes,no,yes,yes
+Overleaf,complex,contrib-versions,no,no,yes,no,yes
+Paradox Interactive,complex,contrib-versions,no,no,yes,no,no
+Pirr,complex,genai-contrib-versions,no,yes,yes,yes,no
+Proctorio,complex,contrib-versions,no,yes,yes,yes,yes
+Qwen Chat,complex,genai-contrib-versions,yes,yes,yes,yes,yes
+Reddit,complex,,yes,yes,yes,no,yes
+Rephrase.ai,complex,genai-contrib-versions,yes,yes,no,no,yes
+Replit,complex,genai-contrib-versions,no,yes,yes,yes,yes
+Sana,complex,genai-contrib-versions,no,yes,yes,yes,yes
+Sendinblue,complex,contrib-versions,yes,yes,yes,yes,yes
+Sketchfab,complex,contrib-versions,yes,yes,yes,no,no
+Skype,complex,contrib-versions,no,yes,yes,no,yes
+Solana,complex,contrib-versions,yes,yes,no,no,yes
+SoundCloud,complex,contrib-versions,no,yes,yes,yes,yes
+Spam.org,complex,contrib-versions,yes,yes,no,yes,no
+Spark,complex,contrib-versions,no,no,yes,yes,yes
+Starbucks,complex,contrib-versions,yes,yes,no,yes,yes
+Starlink,complex,contrib-versions,no,no,yes,yes,yes
+Taboola,complex,contrib-versions,yes,yes,no,yes,no
+Tagged,complex,contrib-versions,yes,yes,no,no,yes
+Teads,complex,contrib-versions,yes,yes,no,yes,no
+Telegram,complex,contrib-versions,no,yes,yes,no,yes
+Tempo Labs,complex,genai-contrib-versions,yes,yes,no,no,yes
+The Guardian,complex,,yes,no,yes,no,yes
+The Mirror,complex,contrib-versions,yes,yes,no,yes,yes
+The New York Times,complex,,yes,yes,yes,yes,yes
+Together AI,complex,genai-contrib-versions,no,yes,yes,yes,yes
+Twitter,complex,,yes,yes,yes,no,yes
+Ubiquiti,complex,contrib-versions,no,yes,yes,yes,yes
+VR,complex,contrib-versions,no,no,yes,no,yes
+Viber,complex,contrib-versions,yes,no,yes,yes,yes
+Vinted,complex,contrib-versions,yes,yes,no,yes,yes
+W3Schools,complex,contrib-versions,yes,yes,no,no,no
+Wargaming,complex,contrib-versions,yes,no,yes,yes,yes
+Watch.Hockey,complex,contrib-versions,yes,no,yes,yes,yes
+Waze,complex,contrib-versions,yes,yes,no,yes,yes
+WeTransfer,complex,contrib-versions,yes,yes,no,yes,yes
+Webs,complex,contrib-versions,yes,yes,no,yes,yes
+Wikimedia Foundation,complex,contrib-versions,yes,yes,no,no,yes
+WolframAlpha,complex,contrib-versions,yes,yes,no,no,yes
+Womans Day,complex,contrib-versions,yes,no,yes,yes,yes
+WordPress.com,complex,contrib-versions,no,yes,yes,yes,no
+X,complex,pga-versions,yes,yes,yes,yes,yes
+Xfinity,complex,contrib-versions,yes,yes,no,yes,yes
+Y Combinator,complex,contrib-versions,yes,yes,no,yes,yes
+Yelp,complex,contrib-versions,yes,yes,no,yes,yes
+YouTube,complex,,yes,yes,yes,no,yes
+Zoosk,complex,contrib-versions,yes,yes,no,yes,yes
+fal,complex,genai-contrib-versions,yes,yes,yes,no,yes
+happn,complex,contrib-versions,yes,yes,yes,no,yes
+hi5,complex,contrib-versions,yes,yes,no,no,yes
+pixiv,complex,contrib-versions,yes,yes,yes,yes,yes
+sourcehut,complex,contrib-versions,yes,no,yes,no,yes
+xAI,complex,genai-contrib-versions,no,yes,yes,yes,yes
