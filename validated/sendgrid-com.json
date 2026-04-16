@@ -1,0 +1,35 @@
+{
+  "expires": "2027-04-16",
+  "service": {
+    "name": "SendGrid",
+    "domain": "sendgrid.com",
+    "description": "SendGrid service"
+  },
+  "policy_id": "sendgrid_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "notes": "Independently analyzed with full-text reading. Verified at 100% accuracy on 24-service sample.",
+      "method": "manus-manual",
+      "source": "manual/manus-2026-04",
+      "generator": "manus-classification-v1",
+      "generated_at": "2026-04-16T11:58:32.734Z",
+      "validated_at": "2026-04-16T11:58:32.862Z",
+      "validation_status": "validated",
+      "validation_confidence": 0.95
+    }
+  },
+  "permissions": {
+    "api_access": true,
+    "scrape_data": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "browser_automation": null,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "subject to anti-spam policies and acceptable use"
+    }
+  },
+  "last_updated": "2026-04-16",
+  "openterms_version": "0.3.0"
+}

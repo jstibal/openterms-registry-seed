@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Ably",
+    "domain": "ably.com",
+    "description": "Real-time messaging and pub/sub platform"
+  },
+  "policy_id": "ably_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Ably REST and Realtime APIs available with API keys. Channels, presence, history, statistics APIs.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "Real-time pub/sub messaging is the core product."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Elasticsearch",
+    "domain": "elastic.co",
+    "description": "Search and analytics platform"
+  },
+  "policy_id": "elastic_co.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Elasticsearch REST API and Kibana APIs available. Elastic Cloud managed service with API keys.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Elastic AI features and models may not be used to train competing AI products."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

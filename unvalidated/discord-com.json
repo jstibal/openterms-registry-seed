@@ -1,0 +1,47 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Discord",
+    "domain": "discord.com",
+    "tos_url": "https://discord.com/terms",
+    "description": "Voice, video and text communication platform"
+  },
+  "policy_id": "discord_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Discord API available with bot tokens. Gateway API for real-time events, REST API for actions. Bots must comply with bot verification requirements.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Scraping and unauthorized automation are prohibited. Use the Discord API and bots with proper bot tokens."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Discord prohibits using content from the platform to train AI models."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "Bots must comply with Discord Developer Policy. No spam or unsolicited messages."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

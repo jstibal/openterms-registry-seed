@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Loom",
+    "domain": "loom.com",
+    "description": "Async video messaging for work"
+  },
+  "policy_id": "loom_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Loom API available with OAuth. Record, retrieve, and manage videos programmatically.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Loom video data may not be used to train AI models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,38 @@
+{
+  "expires": "2027-04-16",
+  "service": {
+    "name": "HubSpot",
+    "domain": "hubspot.com",
+    "description": "HubSpot service"
+  },
+  "policy_id": "hubspot_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "notes": "Independently analyzed with full-text reading. Verified at 100% accuracy on 24-service sample.",
+      "method": "manus-manual",
+      "source": "manual/manus-2026-04",
+      "generator": "manus-classification-v1",
+      "generated_at": "2026-04-16T11:58:35.051Z",
+      "validated_at": "2026-04-16T11:58:35.256Z",
+      "validation_status": "validated",
+      "validation_confidence": 0.95
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "subject to HubSpot API use policy"
+    },
+    "scrape_data": false,
+    "read_content": true,
+    "allow_training": false,
+    "create_account": true,
+    "browser_automation": null,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "via HubSpot API only, CAN-SPAM rules apply"
+    }
+  },
+  "last_updated": "2026-04-16",
+  "openterms_version": "0.3.0"
+}

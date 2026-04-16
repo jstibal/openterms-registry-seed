@@ -1,0 +1,4612 @@
+{
+  "generated_at": "2026-04-16T16:02:17.338Z",
+  "schema_version": "0.3.1",
+  "source_url": "https://openterms.com",
+  "total": 511,
+  "counts": {
+    "validated": 53,
+    "unvalidated": 458,
+    "flagged": 0
+  },
+  "entries": [
+    {
+      "domain": "99designs.com",
+      "filename": "99designs-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "ably.com",
+      "filename": "ably-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "academia.edu",
+      "filename": "academia-edu.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:44.861Z"
+    },
+    {
+      "domain": "acuityads.com",
+      "filename": "acuityads-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:44.920Z"
+    },
+    {
+      "domain": "adroll.com",
+      "filename": "adroll-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:17.888Z"
+    },
+    {
+      "domain": "ads.google.com",
+      "filename": "ads-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:57.081Z"
+    },
+    {
+      "domain": "adsense.google.com",
+      "filename": "adsense-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:50.995Z"
+    },
+    {
+      "domain": "advertising.amazon.com",
+      "filename": "advertising-amazon-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:54.942Z"
+    },
+    {
+      "domain": "ai.google.dev",
+      "filename": "ai-google-dev.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:59.036Z"
+    },
+    {
+      "domain": "airbnb.com",
+      "filename": "airbnb-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:17.947Z"
+    },
+    {
+      "domain": "airon.ai",
+      "filename": "airon-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:52.863Z"
+    },
+    {
+      "domain": "airtable.com",
+      "filename": "airtable-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:26.362Z"
+    },
+    {
+      "domain": "alexa.amazon.com",
+      "filename": "alexa-amazon-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:04.469Z"
+    },
+    {
+      "domain": "algolia.com",
+      "filename": "algolia-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:33.522Z"
+    },
+    {
+      "domain": "allrecipes.com",
+      "filename": "allrecipes-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:54.714Z"
+    },
+    {
+      "domain": "alphavantage.co",
+      "filename": "alphavantage-co.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:20.283Z"
+    },
+    {
+      "domain": "amazon.com",
+      "filename": "amazon-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:41:13.032Z"
+    },
+    {
+      "domain": "amazon.com/appstore",
+      "filename": "amazon-com/appstore.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.132Z"
+    },
+    {
+      "domain": "amazon.com/coins",
+      "filename": "amazon-com/coins.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.222Z"
+    },
+    {
+      "domain": "amazon.com/device",
+      "filename": "amazon-com/device.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.315Z"
+    },
+    {
+      "domain": "amazon.com/kindle",
+      "filename": "amazon-com/kindle.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.408Z"
+    },
+    {
+      "domain": "amazon.com/kindlestore",
+      "filename": "amazon-com/kindlestore.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.500Z"
+    },
+    {
+      "domain": "amazon.com/monthlypayments",
+      "filename": "amazon-com/monthlypayments.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.785Z"
+    },
+    {
+      "domain": "amazon.com/silk",
+      "filename": "amazon-com/silk.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:56.694Z"
+    },
+    {
+      "domain": "amplitude.com",
+      "filename": "amplitude-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:19.988Z"
+    },
+    {
+      "domain": "analytics.google.com",
+      "filename": "analytics-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:57.270Z"
+    },
+    {
+      "domain": "angellist.com",
+      "filename": "angellist-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "anthropic.com",
+      "filename": "anthropic-com.json",
+      "category": "AI",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:20.579Z"
+    },
+    {
+      "domain": "antigravity.google.com",
+      "filename": "antigravity-google-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:57.459Z"
+    },
+    {
+      "domain": "apnews.com",
+      "filename": "apnews-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "apple.com",
+      "filename": "apple-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:30:04.730Z"
+    },
+    {
+      "domain": "apple.com/apple-pay",
+      "filename": "apple-com/apple-pay.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "apps.apple.com",
+      "filename": "apps-apple-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "arc.net",
+      "filename": "arc-net.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:20.341Z"
+    },
+    {
+      "domain": "archive.org",
+      "filename": "archive-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "archiveofourown.org",
+      "filename": "archiveofourown-org.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "arstechnica.com",
+      "filename": "arstechnica-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "artstation.com",
+      "filename": "artstation-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:14.444Z"
+    },
+    {
+      "domain": "arxiv.org",
+      "filename": "arxiv-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "asana.com",
+      "filename": "asana-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:27.581Z"
+    },
+    {
+      "domain": "ask.fm",
+      "filename": "ask-fm.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:12.946Z"
+    },
+    {
+      "domain": "assemblyai.com",
+      "filename": "assemblyai-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "asus.com",
+      "filename": "asus-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:13.005Z"
+    },
+    {
+      "domain": "atlassian.com",
+      "filename": "atlassian-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:17.762Z"
+    },
+    {
+      "domain": "auth0.com",
+      "filename": "auth0-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:34.710Z"
+    },
+    {
+      "domain": "aws.amazon.com",
+      "filename": "aws-amazon-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:11.032Z"
+    },
+    {
+      "domain": "azure.microsoft.com",
+      "filename": "azure-microsoft-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:11.547Z"
+    },
+    {
+      "domain": "badoo.com",
+      "filename": "badoo-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:56.752Z"
+    },
+    {
+      "domain": "bahn.de",
+      "filename": "bahn-de.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:04.523Z"
+    },
+    {
+      "domain": "bandcamp.com",
+      "filename": "bandcamp-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "bankid.com",
+      "filename": "bankid-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:56.941Z"
+    },
+    {
+      "domain": "base.com",
+      "filename": "base-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:58.539Z"
+    },
+    {
+      "domain": "bbc.com",
+      "filename": "bbc-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:17.926Z"
+    },
+    {
+      "domain": "bear.app",
+      "filename": "bear-app.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "behance.net",
+      "filename": "behance-net.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "bere.al",
+      "filename": "bere-al.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:58.727Z"
+    },
+    {
+      "domain": "bestbuy.com",
+      "filename": "bestbuy-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "betterstack.com",
+      "filename": "betterstack-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:58.912Z"
+    },
+    {
+      "domain": "binance.com",
+      "filename": "binance-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:00.660Z"
+    },
+    {
+      "domain": "bing.com",
+      "filename": "bing-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "bitbucket.org",
+      "filename": "bitbucket-org.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:17.136Z"
+    },
+    {
+      "domain": "bitwarden.com",
+      "filename": "bitwarden-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:02.375Z"
+    },
+    {
+      "domain": "blogger.com",
+      "filename": "blogger-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:25.276Z"
+    },
+    {
+      "domain": "bloomberg.com",
+      "filename": "bloomberg-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "bolt.eu",
+      "filename": "bolt-eu.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:04.134Z"
+    },
+    {
+      "domain": "bolt.eu/drive",
+      "filename": "bolt-eu/drive.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:25.336Z"
+    },
+    {
+      "domain": "bolt.new",
+      "filename": "bolt-new.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:31.824Z"
+    },
+    {
+      "domain": "booking.com",
+      "filename": "booking-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "box.com",
+      "filename": "box-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "braintreepayments.com",
+      "filename": "braintreepayments-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "brave.com",
+      "filename": "brave-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "business.google.com",
+      "filename": "business-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:59.814Z"
+    },
+    {
+      "domain": "businessconnect.apple.com",
+      "filename": "businessconnect-apple-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:14.387Z"
+    },
+    {
+      "domain": "buymeacoffee.com",
+      "filename": "buymeacoffee-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "cafemom.com",
+      "filename": "cafemom-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:26.333Z"
+    },
+    {
+      "domain": "calendar.google.com",
+      "filename": "calendar-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:57.661Z"
+    },
+    {
+      "domain": "calendly.com",
+      "filename": "calendly-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "calm.com",
+      "filename": "calm-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "canva.com",
+      "filename": "canva-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:27.027Z"
+    },
+    {
+      "domain": "cdiscount.com",
+      "filename": "cdiscount-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:33.350Z"
+    },
+    {
+      "domain": "change.org",
+      "filename": "change-org.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "chat.mistral.ai",
+      "filename": "chat-mistral-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:54.159Z"
+    },
+    {
+      "domain": "chatgpt.com",
+      "filename": "chatgpt-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:35.018Z"
+    },
+    {
+      "domain": "chewy.com",
+      "filename": "chewy-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "chrome.google.com",
+      "filename": "chrome-google-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:04.328Z"
+    },
+    {
+      "domain": "civitai.com",
+      "filename": "civitai-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:35.075Z"
+    },
+    {
+      "domain": "claude.ai",
+      "filename": "claude-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:38.559Z"
+    },
+    {
+      "domain": "cloud.google.com",
+      "filename": "cloud-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:57.866Z"
+    },
+    {
+      "domain": "cloudflare.com",
+      "filename": "cloudflare-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:37.686Z"
+    },
+    {
+      "domain": "cloudinary.com",
+      "filename": "cloudinary-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "cnn.com",
+      "filename": "cnn-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "cohere.com",
+      "filename": "cohere-com.json",
+      "category": "AI",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:20.638Z"
+    },
+    {
+      "domain": "coinbase.com",
+      "filename": "coinbase-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "commons.wikimedia.org",
+      "filename": "commons-wikimedia-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "confluence.atlassian.com",
+      "filename": "confluence-atlassian-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "connected.toyota.com",
+      "filename": "connected-toyota-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:47.712Z"
+    },
+    {
+      "domain": "contacts.google.com",
+      "filename": "contacts-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "contentful.com",
+      "filename": "contentful-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:34.040Z"
+    },
+    {
+      "domain": "contributor.google.com",
+      "filename": "contributor-google-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:58.056Z"
+    },
+    {
+      "domain": "copilot.github.com",
+      "filename": "copilot-github-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:16.699Z"
+    },
+    {
+      "domain": "copilot.microsoft.com",
+      "filename": "copilot-microsoft-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:31.557Z"
+    },
+    {
+      "domain": "coursera.org",
+      "filename": "coursera-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "craigslist.org",
+      "filename": "craigslist-org.json",
+      "category": null,
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:54.320Z"
+    },
+    {
+      "domain": "crowdtangle.com",
+      "filename": "crowdtangle-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:45.812Z"
+    },
+    {
+      "domain": "crunchbase.com",
+      "filename": "crunchbase-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "crunchyroll.com",
+      "filename": "crunchyroll-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:45.871Z"
+    },
+    {
+      "domain": "culturedcode.com",
+      "filename": "culturedcode-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "dailymotion.com",
+      "filename": "dailymotion-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "databricks.com",
+      "filename": "databricks-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "datadoghq.com",
+      "filename": "datadoghq-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:18.268Z"
+    },
+    {
+      "domain": "datastudio.google.com",
+      "filename": "datastudio-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:58.256Z"
+    },
+    {
+      "domain": "deepgram.com",
+      "filename": "deepgram-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "deezer.com",
+      "filename": "deezer-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "dell.com",
+      "filename": "dell-com.json",
+      "category": null,
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:29:45.363Z"
+    },
+    {
+      "domain": "dev.to",
+      "filename": "dev-to.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "developer.amazon.com",
+      "filename": "developer-amazon-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.694Z"
+    },
+    {
+      "domain": "developer.apple.com",
+      "filename": "developer-apple-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:44:54.900Z"
+    },
+    {
+      "domain": "developers.google.com",
+      "filename": "developers-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:56.889Z"
+    },
+    {
+      "domain": "deviantart.com",
+      "filename": "deviantart-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "devpost.com",
+      "filename": "devpost-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "digitalocean.com",
+      "filename": "digitalocean-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:12.681Z"
+    },
+    {
+      "domain": "discord.com",
+      "filename": "discord-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "disneyplus.com",
+      "filename": "disneyplus-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "distrokid.com",
+      "filename": "distrokid-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:07.721Z"
+    },
+    {
+      "domain": "docs.google.com",
+      "filename": "docs-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "doordash.com",
+      "filename": "doordash-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "dribbble.com",
+      "filename": "dribbble-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "drive.google.com",
+      "filename": "drive-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:58.450Z"
+    },
+    {
+      "domain": "dropbox.com",
+      "filename": "dropbox-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:29.653Z"
+    },
+    {
+      "domain": "duckduckgo.com",
+      "filename": "duckduckgo-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "dune.com",
+      "filename": "dune-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:56.243Z"
+    },
+    {
+      "domain": "duolingo.com",
+      "filename": "duolingo-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "earth.google.com",
+      "filename": "earth-google-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:58.643Z"
+    },
+    {
+      "domain": "ebay.com",
+      "filename": "ebay-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:41:13.521Z"
+    },
+    {
+      "domain": "ecosia.org",
+      "filename": "ecosia-org.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "edx.org",
+      "filename": "edx-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "elastic.co",
+      "filename": "elastic-co.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "elevenlabs.io",
+      "filename": "elevenlabs-io.json",
+      "category": "AI",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:25.232Z"
+    },
+    {
+      "domain": "energia.ie",
+      "filename": "energia-ie.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:06.290Z"
+    },
+    {
+      "domain": "engadget.com",
+      "filename": "engadget-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "epassi.com",
+      "filename": "epassi-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:08.035Z"
+    },
+    {
+      "domain": "ethereum.org",
+      "filename": "ethereum-org.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:13.934Z"
+    },
+    {
+      "domain": "etsy.com",
+      "filename": "etsy-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "eventbrite.com",
+      "filename": "eventbrite-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "evernote.com",
+      "filename": "evernote-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "expedia.com",
+      "filename": "expedia-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "facebook.com",
+      "filename": "facebook-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:56.371Z"
+    },
+    {
+      "domain": "facebook.com/ads",
+      "filename": "facebook-com/ads.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:13.993Z"
+    },
+    {
+      "domain": "facebook.com/payments",
+      "filename": "facebook-com/payments.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:19.984Z"
+    },
+    {
+      "domain": "fedex.com",
+      "filename": "fedex-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:08.216Z"
+    },
+    {
+      "domain": "feedly.com",
+      "filename": "feedly-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "figma.com",
+      "filename": "figma-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:26.967Z"
+    },
+    {
+      "domain": "fitbit.com",
+      "filename": "fitbit-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "fiverr.com",
+      "filename": "fiverr-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "flickr.com",
+      "filename": "flickr-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:04.943Z"
+    },
+    {
+      "domain": "flights.google.com",
+      "filename": "flights-google-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:58.839Z"
+    },
+    {
+      "domain": "fly.io",
+      "filename": "fly-io.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:12.740Z"
+    },
+    {
+      "domain": "foodnetwork.com",
+      "filename": "foodnetwork-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "forbes.com",
+      "filename": "forbes-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "forms.google.com",
+      "filename": "forms-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "framatube.org",
+      "filename": "framatube-org.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "framer.com",
+      "filename": "framer-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "frank.no",
+      "filename": "frank-no.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:10.491Z"
+    },
+    {
+      "domain": "freelancer.com",
+      "filename": "freelancer-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "frejaeid.com",
+      "filename": "frejaeid-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:10.672Z"
+    },
+    {
+      "domain": "fresh.amazon.com",
+      "filename": "fresh-amazon-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "ft.com",
+      "filename": "ft-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:00.807Z"
+    },
+    {
+      "domain": "gaming.amazon.com",
+      "filename": "gaming-amazon-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "gartner.com",
+      "filename": "gartner-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:12.354Z"
+    },
+    {
+      "domain": "gemini.google.com",
+      "filename": "gemini-google-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "getpocket.com",
+      "filename": "getpocket-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "getstream.io",
+      "filename": "getstream-io.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "gettyimages.com",
+      "filename": "gettyimages-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "ghost.org",
+      "filename": "ghost-org.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "giphy.com",
+      "filename": "giphy-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "github.com",
+      "filename": "github-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:30:44.972Z"
+    },
+    {
+      "domain": "gitlab.com",
+      "filename": "gitlab-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:16.622Z"
+    },
+    {
+      "domain": "glass.ai",
+      "filename": "glass-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:12.464Z"
+    },
+    {
+      "domain": "glassdoor.com",
+      "filename": "glassdoor-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:20.411Z"
+    },
+    {
+      "domain": "gofile.io",
+      "filename": "gofile-io.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:14.352Z"
+    },
+    {
+      "domain": "goodlinks.app",
+      "filename": "goodlinks-app.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "goodreads.com",
+      "filename": "goodreads-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "google.com",
+      "filename": "google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:55.884Z"
+    },
+    {
+      "domain": "google.com/play",
+      "filename": "google-com/play.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:03.117Z"
+    },
+    {
+      "domain": "google.com/search",
+      "filename": "google-com/search.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "gradio.app",
+      "filename": "gradio-app.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "grafana.com",
+      "filename": "grafana-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:18.905Z"
+    },
+    {
+      "domain": "grubhub.com",
+      "filename": "grubhub-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "gumb.app",
+      "filename": "gumb-app.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:16.001Z"
+    },
+    {
+      "domain": "gutenberg.org",
+      "filename": "gutenberg-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "happn.com",
+      "filename": "happn-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:44.888Z"
+    },
+    {
+      "domain": "hashnode.com",
+      "filename": "hashnode-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "headspace.com",
+      "filename": "headspace-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "healthline.com",
+      "filename": "healthline-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "hearst.com",
+      "filename": "hearst-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:22.891Z"
+    },
+    {
+      "domain": "heroku.com",
+      "filename": "heroku-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:12.168Z"
+    },
+    {
+      "domain": "hi5.com",
+      "filename": "hi5-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:49.321Z"
+    },
+    {
+      "domain": "hide.me",
+      "filename": "hide-me.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:04.024Z"
+    },
+    {
+      "domain": "hotjar.com",
+      "filename": "hotjar-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "hoyoverse.com",
+      "filename": "hoyoverse-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:28.713Z"
+    },
+    {
+      "domain": "hsbc.com",
+      "filename": "hsbc-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:16.197Z"
+    },
+    {
+      "domain": "hub.docker.com",
+      "filename": "hub-docker-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:17.703Z"
+    },
+    {
+      "domain": "hubspot.com",
+      "filename": "hubspot-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:35.351Z"
+    },
+    {
+      "domain": "huggingface.co",
+      "filename": "huggingface-co.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:41:12.207Z"
+    },
+    {
+      "domain": "hulu.com",
+      "filename": "hulu-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "icloud.com",
+      "filename": "icloud-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:57:27.935Z"
+    },
+    {
+      "domain": "ikea.com",
+      "filename": "ikea-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:17.965Z"
+    },
+    {
+      "domain": "ikea.com/family",
+      "filename": "ikea-com/family.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:33.334Z"
+    },
+    {
+      "domain": "imdb.com",
+      "filename": "imdb-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:33.572Z"
+    },
+    {
+      "domain": "imgix.com",
+      "filename": "imgix-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "imgur.com",
+      "filename": "imgur-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:19.587Z"
+    },
+    {
+      "domain": "incredible.dev",
+      "filename": "incredible-dev.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:33.631Z"
+    },
+    {
+      "domain": "indeed.com",
+      "filename": "indeed-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "indiegogo.com",
+      "filename": "indiegogo-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "instacart.com",
+      "filename": "instacart-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "instagram.com",
+      "filename": "instagram-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "instapaper.com",
+      "filename": "instapaper-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "intercom.com",
+      "filename": "intercom-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "intric.ai",
+      "filename": "intric-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:38.898Z"
+    },
+    {
+      "domain": "ironsource.com",
+      "filename": "ironsource-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:57:27.997Z"
+    },
+    {
+      "domain": "jeeng.com",
+      "filename": "jeeng-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:53:38.957Z"
+    },
+    {
+      "domain": "jstor.org",
+      "filename": "jstor-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "kagi.com",
+      "filename": "kagi-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "kbin.social",
+      "filename": "kbin-social.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:21.433Z"
+    },
+    {
+      "domain": "khanacademy.org",
+      "filename": "khanacademy-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "kick.com",
+      "filename": "kick-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:38.111Z"
+    },
+    {
+      "domain": "kickstarter.com",
+      "filename": "kickstarter-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "kimi.ai",
+      "filename": "kimi-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:48.948Z"
+    },
+    {
+      "domain": "kindle.amazon.com",
+      "filename": "kindle-amazon-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "kivra.com",
+      "filename": "kivra-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:23.111Z"
+    },
+    {
+      "domain": "ko-fi.com",
+      "filename": "ko-fi-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "labelstud.io",
+      "filename": "labelstud-io.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "labs.openai.com",
+      "filename": "labs-openai-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:47:42.856Z"
+    },
+    {
+      "domain": "langchain.com",
+      "filename": "langchain-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "lemmy.world",
+      "filename": "lemmy-world.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "letterboxd.com",
+      "filename": "letterboxd-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "librarything.com",
+      "filename": "librarything-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:23.303Z"
+    },
+    {
+      "domain": "limitless.ai",
+      "filename": "limitless-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:02.544Z"
+    },
+    {
+      "domain": "linear.app",
+      "filename": "linear-app.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "lingualeo.com",
+      "filename": "lingualeo-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:11.026Z"
+    },
+    {
+      "domain": "linkedin.com",
+      "filename": "linkedin-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:57.478Z"
+    },
+    {
+      "domain": "linkedin.com/jobs",
+      "filename": "linkedin-com/jobs.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "liquid.ai",
+      "filename": "liquid-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:23.492Z"
+    },
+    {
+      "domain": "llamaapi.com",
+      "filename": "llamaapi-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:10.668Z"
+    },
+    {
+      "domain": "logitech.com",
+      "filename": "logitech-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:11.085Z"
+    },
+    {
+      "domain": "loom.com",
+      "filename": "loom-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "lydia-app.com",
+      "filename": "lydia-app-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:23.682Z"
+    },
+    {
+      "domain": "lyft.com",
+      "filename": "lyft-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "mail.google.com",
+      "filename": "mail-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "mailchimp.com",
+      "filename": "mailchimp-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:33.463Z"
+    },
+    {
+      "domain": "manufacturer.google.com",
+      "filename": "manufacturer-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:59.223Z"
+    },
+    {
+      "domain": "maps.apple.com",
+      "filename": "maps-apple-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "maps.google.com",
+      "filename": "maps-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:59.418Z"
+    },
+    {
+      "domain": "mastodon.social",
+      "filename": "mastodon-social.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "max.com",
+      "filename": "max-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "mayoclinic.org",
+      "filename": "mayoclinic-org.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "medium.com",
+      "filename": "medium-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "meet.google.com",
+      "filename": "meet-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "meet.jit.si",
+      "filename": "meet-jit-si.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:04.243Z"
+    },
+    {
+      "domain": "meetup.com",
+      "filename": "meetup-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:13.676Z"
+    },
+    {
+      "domain": "mendeley.com",
+      "filename": "mendeley-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "merchant.google.com",
+      "filename": "merchant-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:59.620Z"
+    },
+    {
+      "domain": "metacritic.com",
+      "filename": "metacritic-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "microsoft.com",
+      "filename": "microsoft-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "microsoft.com/store",
+      "filename": "microsoft-com/store.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:31.616Z"
+    },
+    {
+      "domain": "microsoft365.com",
+      "filename": "microsoft365-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "midjourney.com",
+      "filename": "midjourney-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "miro.com",
+      "filename": "miro-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "mirror.co.uk",
+      "filename": "mirror-co-uk.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:51.096Z"
+    },
+    {
+      "domain": "mistral.ai",
+      "filename": "mistral-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:22.661Z"
+    },
+    {
+      "domain": "mixpanel.com",
+      "filename": "mixpanel-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:19.468Z"
+    },
+    {
+      "domain": "mongodb.com",
+      "filename": "mongodb-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:14.467Z"
+    },
+    {
+      "domain": "monitor.firefox.com",
+      "filename": "monitor-firefox-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:08.599Z"
+    },
+    {
+      "domain": "monster.com",
+      "filename": "monster-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "mouthshut.com",
+      "filename": "mouthshut-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:13.752Z"
+    },
+    {
+      "domain": "mozilla.org",
+      "filename": "mozilla-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:08.407Z"
+    },
+    {
+      "domain": "msn.com",
+      "filename": "msn-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:22.222Z"
+    },
+    {
+      "domain": "mullvad.net",
+      "filename": "mullvad-net.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:25.320Z"
+    },
+    {
+      "domain": "music.amazon.com",
+      "filename": "music-amazon-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:55.978Z"
+    },
+    {
+      "domain": "music.apple.com",
+      "filename": "music-apple-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "music.youtube.com",
+      "filename": "music-youtube-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "myfitnesspal.com",
+      "filename": "myfitnesspal-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "myspace.com",
+      "filename": "myspace-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:38.226Z"
+    },
+    {
+      "domain": "nationalgeographic.com",
+      "filename": "nationalgeographic-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:25.511Z"
+    },
+    {
+      "domain": "nature.com",
+      "filename": "nature-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "neon.tech",
+      "filename": "neon-tech.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:13.827Z"
+    },
+    {
+      "domain": "nest.com",
+      "filename": "nest-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.007Z"
+    },
+    {
+      "domain": "netflix.com",
+      "filename": "netflix-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:31:04.599Z"
+    },
+    {
+      "domain": "netlify.com",
+      "filename": "netlify-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:12.106Z"
+    },
+    {
+      "domain": "newrelic.com",
+      "filename": "newrelic-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:18.327Z"
+    },
+    {
+      "domain": "news.ycombinator.com",
+      "filename": "news-ycombinator-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "nft.coinbase.com",
+      "filename": "nft-coinbase-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "nissan.com",
+      "filename": "nissan-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:27.087Z"
+    },
+    {
+      "domain": "nonprofits.google.com",
+      "filename": "nonprofits-google-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.995Z"
+    },
+    {
+      "domain": "noom.com",
+      "filename": "noom-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "nordvpn.com",
+      "filename": "nordvpn-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:43.556Z"
+    },
+    {
+      "domain": "notion.so",
+      "filename": "notion-so.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:25.861Z"
+    },
+    {
+      "domain": "nousresearch.com",
+      "filename": "nousresearch-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:19.616Z"
+    },
+    {
+      "domain": "npmjs.com",
+      "filename": "npmjs-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:17.195Z"
+    },
+    {
+      "domain": "nytimes.com",
+      "filename": "nytimes-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "obsidian.md",
+      "filename": "obsidian-md.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "okcupid.com",
+      "filename": "okcupid-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:45.919Z"
+    },
+    {
+      "domain": "okta.com",
+      "filename": "okta-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:34.646Z"
+    },
+    {
+      "domain": "okx.com",
+      "filename": "okx-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:19.675Z"
+    },
+    {
+      "domain": "olvid.io",
+      "filename": "olvid-io.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:23.656Z"
+    },
+    {
+      "domain": "one.google.com",
+      "filename": "one-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.210Z"
+    },
+    {
+      "domain": "onedrive.live.com",
+      "filename": "onedrive-live-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "onlyfans.com",
+      "filename": "onlyfans-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:27.470Z"
+    },
+    {
+      "domain": "open.weixin.qq.com",
+      "filename": "open-weixin-qq-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:54.277Z"
+    },
+    {
+      "domain": "openai.com",
+      "filename": "openai-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:45.976Z"
+    },
+    {
+      "domain": "opensea.io",
+      "filename": "opensea-io.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:49:49.115Z"
+    },
+    {
+      "domain": "oreilly.com",
+      "filename": "oreilly-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:27.274Z"
+    },
+    {
+      "domain": "outbrain.com",
+      "filename": "outbrain-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:29.374Z"
+    },
+    {
+      "domain": "overleaf.com",
+      "filename": "overleaf-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "ovhcloud.com",
+      "filename": "ovhcloud-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:23.592Z"
+    },
+    {
+      "domain": "pagerduty.com",
+      "filename": "pagerduty-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:19.410Z"
+    },
+    {
+      "domain": "palantir.com",
+      "filename": "palantir-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:31.179Z"
+    },
+    {
+      "domain": "pandora.com",
+      "filename": "pandora-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "paramountplus.com",
+      "filename": "paramountplus-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "parler.com",
+      "filename": "parler-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:33.065Z"
+    },
+    {
+      "domain": "patreon.com",
+      "filename": "patreon-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "pay.google.com",
+      "filename": "pay-google-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.400Z"
+    },
+    {
+      "domain": "paypal.com",
+      "filename": "paypal-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:31.819Z"
+    },
+    {
+      "domain": "peacocktv.com",
+      "filename": "peacocktv-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "perplexity.ai",
+      "filename": "perplexity-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:22.722Z"
+    },
+    {
+      "domain": "pexels.com",
+      "filename": "pexels-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "photos.amazon.com",
+      "filename": "photos-amazon-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:56.184Z"
+    },
+    {
+      "domain": "photos.google.com",
+      "filename": "photos-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "pinecone.io",
+      "filename": "pinecone-io.json",
+      "category": "AI",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:25.802Z"
+    },
+    {
+      "domain": "pinterest.com",
+      "filename": "pinterest-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "pitchbook.com",
+      "filename": "pitchbook-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "pixabay.com",
+      "filename": "pixabay-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "pixelfed.social",
+      "filename": "pixelfed-social.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "pixiv.net",
+      "filename": "pixiv-net.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:49.379Z"
+    },
+    {
+      "domain": "plaid.com",
+      "filename": "plaid-com.json",
+      "category": "Finance",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:32.340Z"
+    },
+    {
+      "domain": "planetscale.com",
+      "filename": "planetscale-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:14.407Z"
+    },
+    {
+      "domain": "play.google.com",
+      "filename": "play-google-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:34.758Z"
+    },
+    {
+      "domain": "playstation.com",
+      "filename": "playstation-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:34.938Z"
+    },
+    {
+      "domain": "polyfill.io",
+      "filename": "polyfill-io.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:35.128Z"
+    },
+    {
+      "domain": "posthog.com",
+      "filename": "posthog-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:20.054Z"
+    },
+    {
+      "domain": "prime.amazon.com",
+      "filename": "prime-amazon-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:56.401Z"
+    },
+    {
+      "domain": "primevideo.com",
+      "filename": "primevideo-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "producthunt.com",
+      "filename": "producthunt-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "proton.me",
+      "filename": "proton-me.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:35.327Z"
+    },
+    {
+      "domain": "protonvpn.com",
+      "filename": "protonvpn-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:35.542Z"
+    },
+    {
+      "domain": "publisher.amazon.com",
+      "filename": "publisher-amazon-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:56.605Z"
+    },
+    {
+      "domain": "pubmatic.com",
+      "filename": "pubmatic-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:35.742Z"
+    },
+    {
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "filename": "pubmed-ncbi-nlm-nih-gov.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "pusher.com",
+      "filename": "pusher-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "pypi.org",
+      "filename": "pypi-org.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "qiwi.gg",
+      "filename": "qiwi-gg.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:35.936Z"
+    },
+    {
+      "domain": "qobuz.com",
+      "filename": "qobuz-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:54:32.023Z"
+    },
+    {
+      "domain": "quora.com",
+      "filename": "quora-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "railway.app",
+      "filename": "railway-app.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:13.250Z"
+    },
+    {
+      "domain": "reddit.com",
+      "filename": "reddit-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.88,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:30:52.969Z"
+    },
+    {
+      "domain": "reederapp.com",
+      "filename": "reederapp-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "render.com",
+      "filename": "render-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:13.308Z"
+    },
+    {
+      "domain": "rephrase.ai",
+      "filename": "rephrase-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:01.816Z"
+    },
+    {
+      "domain": "replicate.com",
+      "filename": "replicate-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:24.672Z"
+    },
+    {
+      "domain": "replit.com",
+      "filename": "replit-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:06.015Z"
+    },
+    {
+      "domain": "researchgate.net",
+      "filename": "researchgate-net.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "reuters.com",
+      "filename": "reuters-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "revolt.chat",
+      "filename": "revolt-chat.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:37.726Z"
+    },
+    {
+      "domain": "ring.com",
+      "filename": "ring-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "roamresearch.com",
+      "filename": "roamresearch-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "robinhood.com",
+      "filename": "robinhood-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "roboflow.com",
+      "filename": "roboflow-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "rottentomatoes.com",
+      "filename": "rottentomatoes-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "rueducommerce.fr",
+      "filename": "rueducommerce-fr.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:35:03.403Z"
+    },
+    {
+      "domain": "runway.com",
+      "filename": "runway-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "salesforce.com",
+      "filename": "salesforce-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:35.291Z"
+    },
+    {
+      "domain": "sana.ai",
+      "filename": "sana-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:06.071Z"
+    },
+    {
+      "domain": "sanity.io",
+      "filename": "sanity-io.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:34.124Z"
+    },
+    {
+      "domain": "scale.com",
+      "filename": "scale-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "scalingo.com",
+      "filename": "scalingo-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:39.388Z"
+    },
+    {
+      "domain": "scribesecurity.com",
+      "filename": "scribesecurity-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:55:51.435Z"
+    },
+    {
+      "domain": "segment.com",
+      "filename": "segment-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "sendgrid.com",
+      "filename": "sendgrid-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:32.960Z"
+    },
+    {
+      "domain": "sendinblue.com",
+      "filename": "sendinblue-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:11.423Z"
+    },
+    {
+      "domain": "sentry.io",
+      "filename": "sentry-io.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:18.846Z"
+    },
+    {
+      "domain": "sheets.google.com",
+      "filename": "sheets-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "shockwave.com",
+      "filename": "shockwave-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:39.582Z"
+    },
+    {
+      "domain": "shopify.com",
+      "filename": "shopify-com.json",
+      "category": "E-Commerce",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:38.268Z"
+    },
+    {
+      "domain": "shutterstock.com",
+      "filename": "shutterstock-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "skillshare.com",
+      "filename": "skillshare-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "slack.com",
+      "filename": "slack-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:26.421Z"
+    },
+    {
+      "domain": "slides.google.com",
+      "filename": "slides-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "snapchat.com",
+      "filename": "snapchat-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "sncf-connect.com",
+      "filename": "sncf-connect-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:55:47.998Z"
+    },
+    {
+      "domain": "snowflake.com",
+      "filename": "snowflake-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:16.564Z"
+    },
+    {
+      "domain": "sonic.net",
+      "filename": "sonic-net.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:39.778Z"
+    },
+    {
+      "domain": "sony.com",
+      "filename": "sony-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:04.436Z"
+    },
+    {
+      "domain": "soundcloud.com",
+      "filename": "soundcloud-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "speechify.com",
+      "filename": "speechify-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:55:55.223Z"
+    },
+    {
+      "domain": "spotify.com",
+      "filename": "spotify-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "squarespace.com",
+      "filename": "squarespace-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "squareup.com",
+      "filename": "squareup-com.json",
+      "category": "Finance",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:32.399Z"
+    },
+    {
+      "domain": "sr.ht",
+      "filename": "sr-ht.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:54.436Z"
+    },
+    {
+      "domain": "ssrn.com",
+      "filename": "ssrn-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "stability.ai",
+      "filename": "stability-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:24.733Z"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "filename": "stackoverflow-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "startpage.com",
+      "filename": "startpage-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "strava.com",
+      "filename": "strava-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "streamable.com",
+      "filename": "streamable-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:41.625Z"
+    },
+    {
+      "domain": "streamlit.io",
+      "filename": "streamlit-io.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "stripe.com",
+      "filename": "stripe-com.json",
+      "category": "Finance",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:31.760Z"
+    },
+    {
+      "domain": "substack.com",
+      "filename": "substack-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "supabase.com",
+      "filename": "supabase-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:13.889Z"
+    },
+    {
+      "domain": "surveymonkey.com",
+      "filename": "surveymonkey-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:55:58.862Z"
+    },
+    {
+      "domain": "tableau.com",
+      "filename": "tableau-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "tagged.com",
+      "filename": "tagged-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:31.823Z"
+    },
+    {
+      "domain": "tagmanager.google.com",
+      "filename": "tagmanager-google-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.595Z"
+    },
+    {
+      "domain": "target.com",
+      "filename": "target-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "tchap.beta.gouv.fr",
+      "filename": "tchap-beta-gouv-fr.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:09.150Z"
+    },
+    {
+      "domain": "teams.microsoft.com",
+      "filename": "teams-microsoft-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "techcrunch.com",
+      "filename": "techcrunch-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "technologyreview.com",
+      "filename": "technologyreview-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "teladoc.com",
+      "filename": "teladoc-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "telegram.org",
+      "filename": "telegram-org.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.83,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "tempo.new",
+      "filename": "tempo-new.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:50:45.461Z"
+    },
+    {
+      "domain": "tencent.com",
+      "filename": "tencent-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:43.512Z"
+    },
+    {
+      "domain": "theguardian.com",
+      "filename": "theguardian-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "thereachgroup.com",
+      "filename": "thereachgroup-com.json",
+      "category": "Open-API",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:43.718Z"
+    },
+    {
+      "domain": "theregister.com",
+      "filename": "theregister-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:43.923Z"
+    },
+    {
+      "domain": "theverge.com",
+      "filename": "theverge-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "thomsonreuters.com",
+      "filename": "thomsonreuters-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:04.632Z"
+    },
+    {
+      "domain": "thryv.com",
+      "filename": "thryv-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:44.120Z"
+    },
+    {
+      "domain": "tidal.com",
+      "filename": "tidal-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "tiktok.com",
+      "filename": "tiktok-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:45.897Z"
+    },
+    {
+      "domain": "tildes.net",
+      "filename": "tildes-net.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:47.531Z"
+    },
+    {
+      "domain": "timeanddate.com",
+      "filename": "timeanddate-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:57:34.077Z"
+    },
+    {
+      "domain": "todoist.com",
+      "filename": "todoist-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "together.ai",
+      "filename": "together-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "tp-link.com",
+      "filename": "tp-link-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:09.090Z"
+    },
+    {
+      "domain": "translate.google.com",
+      "filename": "translate-google-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "trello.com",
+      "filename": "trello-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:27.522Z"
+    },
+    {
+      "domain": "tresorit.com",
+      "filename": "tresorit-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:49.336Z"
+    },
+    {
+      "domain": "tripadvisor.com",
+      "filename": "tripadvisor-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "truthsocial.com",
+      "filename": "truthsocial-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:11.844Z"
+    },
+    {
+      "domain": "trychroma.com",
+      "filename": "trychroma-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.78,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "tumblr.com",
+      "filename": "tumblr-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "tv.apple.com",
+      "filename": "tv-apple-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "twilio.com",
+      "filename": "twilio-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:32.899Z"
+    },
+    {
+      "domain": "twitch.tv",
+      "filename": "twitch-tv.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "twitter.com",
+      "filename": "twitter-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.88,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:56.912Z"
+    },
+    {
+      "domain": "typeform.com",
+      "filename": "typeform-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "uber.com",
+      "filename": "uber-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "ubereats.com",
+      "filename": "ubereats-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "udacity.com",
+      "filename": "udacity-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "udemy.com",
+      "filename": "udemy-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "ui.com",
+      "filename": "ui-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:03.056Z"
+    },
+    {
+      "domain": "unsplash.com",
+      "filename": "unsplash-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "upwork.com",
+      "filename": "upwork-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "urbandictionary.com",
+      "filename": "urbandictionary-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:11.905Z"
+    },
+    {
+      "domain": "uschovna.cz",
+      "filename": "uschovna-cz.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:49.523Z"
+    },
+    {
+      "domain": "userdrive.com",
+      "filename": "userdrive-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:49.715Z"
+    },
+    {
+      "domain": "venturebeat.com",
+      "filename": "venturebeat-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "vercel.com",
+      "filename": "vercel-com.json",
+      "category": "Open-API",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:11.608Z"
+    },
+    {
+      "domain": "viaplay.com",
+      "filename": "viaplay-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:51.518Z"
+    },
+    {
+      "domain": "vidguard.to",
+      "filename": "vidguard-to.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:58:08.603Z"
+    },
+    {
+      "domain": "vimeo.com",
+      "filename": "vimeo-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "visible.com",
+      "filename": "visible-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:53.473Z"
+    },
+    {
+      "domain": "vocabularyspellingcity.com",
+      "filename": "vocabularyspellingcity-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:53.668Z"
+    },
+    {
+      "domain": "vodafone.ie",
+      "filename": "vodafone-ie.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:53.891Z"
+    },
+    {
+      "domain": "voice.google.com",
+      "filename": "voice-google-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.9,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:52:00.795Z"
+    },
+    {
+      "domain": "w3schools.com",
+      "filename": "w3schools-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:12.246Z"
+    },
+    {
+      "domain": "walmart.com",
+      "filename": "walmart-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "wandb.ai",
+      "filename": "wandb-ai.json",
+      "category": "AI",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:25.291Z"
+    },
+    {
+      "domain": "wargaming.net",
+      "filename": "wargaming-net.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:19.532Z"
+    },
+    {
+      "domain": "washingtonpost.com",
+      "filename": "washingtonpost-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "wayfair.com",
+      "filename": "wayfair-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "weaviate.io",
+      "filename": "weaviate-io.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "webcrawler.com",
+      "filename": "webcrawler-com.json",
+      "category": "Search",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:56.279Z"
+    },
+    {
+      "domain": "webflow.com",
+      "filename": "webflow-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.82,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:04:58.465Z"
+    },
+    {
+      "domain": "webmd.com",
+      "filename": "webmd-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "webpronews.com",
+      "filename": "webpronews-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:29.144Z"
+    },
+    {
+      "domain": "webull.com",
+      "filename": "webull-com.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "wechat.com",
+      "filename": "wechat-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:23.149Z"
+    },
+    {
+      "domain": "weebly.com",
+      "filename": "weebly-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "weheartit.com",
+      "filename": "weheartit-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:23.087Z"
+    },
+    {
+      "domain": "wetransfer.com",
+      "filename": "wetransfer-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:22.806Z"
+    },
+    {
+      "domain": "whatsapp.com",
+      "filename": "whatsapp-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.85,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:03:35.093Z"
+    },
+    {
+      "domain": "wikimedia.org",
+      "filename": "wikimedia-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:25.199Z"
+    },
+    {
+      "domain": "wikipedia.org",
+      "filename": "wikipedia-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T18:40:53.785Z"
+    },
+    {
+      "domain": "wiktionary.org",
+      "filename": "wiktionary-org.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "windstream.com",
+      "filename": "windstream-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:58.426Z"
+    },
+    {
+      "domain": "wired.com",
+      "filename": "wired-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "wix.com",
+      "filename": "wix-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:00.164Z"
+    },
+    {
+      "domain": "wolframalpha.com",
+      "filename": "wolframalpha-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:25.256Z"
+    },
+    {
+      "domain": "womansday.com",
+      "filename": "womansday-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:28.251Z"
+    },
+    {
+      "domain": "wordfeud.com",
+      "filename": "wordfeud-com.json",
+      "category": "Other",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:33.144Z"
+    },
+    {
+      "domain": "wordpress.com",
+      "filename": "wordpress-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.65,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:07:42.348Z"
+    },
+    {
+      "domain": "wordtune.com",
+      "filename": "wordtune-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:38.458Z"
+    },
+    {
+      "domain": "worldmarket.com",
+      "filename": "worldmarket-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:00.371Z"
+    },
+    {
+      "domain": "wpengine.com",
+      "filename": "wpengine-com.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:54.082Z"
+    },
+    {
+      "domain": "wsj.com",
+      "filename": "wsj-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "x.ai",
+      "filename": "x-ai.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:48:23.860Z"
+    },
+    {
+      "domain": "x.com",
+      "filename": "x-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.88,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "xbox.com",
+      "filename": "xbox-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:08:06.495Z"
+    },
+    {
+      "domain": "xing.com",
+      "filename": "xing-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:02.044Z"
+    },
+    {
+      "domain": "yahoo.com",
+      "filename": "yahoo-com.json",
+      "category": "Media",
+      "validation_status": "unvalidated",
+      "confidence": 0.8,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:06:47.386Z"
+    },
+    {
+      "domain": "yelp.com",
+      "filename": "yelp-com.json",
+      "category": "E-Commerce",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:36.430Z"
+    },
+    {
+      "domain": "yiyan.baidu.com",
+      "filename": "yiyan-baidu-com.json",
+      "category": "AI",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:45:56.517Z"
+    },
+    {
+      "domain": "youtube.com",
+      "filename": "youtube-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.87,
+      "source": "claimed",
+      "updated_at": "2026-04-15T12:01:23.086Z"
+    },
+    {
+      "domain": "yuka.io",
+      "filename": "yuka-io.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:46:03.835Z"
+    },
+    {
+      "domain": "zendesk.com",
+      "filename": "zendesk-com.json",
+      "category": "SaaS",
+      "validation_status": "validated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:37.471Z"
+    },
+    {
+      "domain": "zocdoc.com",
+      "filename": "zocdoc-com.json",
+      "category": "Healthcare",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    },
+    {
+      "domain": "zoom.us",
+      "filename": "zoom-us.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": 0.95,
+      "source": "manual/manus-2026-04",
+      "updated_at": "2026-04-16T11:58:29.591Z"
+    },
+    {
+      "domain": "zoosk.com",
+      "filename": "zoosk-com.json",
+      "category": "Social",
+      "validation_status": "unvalidated",
+      "confidence": 0.1,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:51:40.949Z"
+    },
+    {
+      "domain": "zora.co",
+      "filename": "zora-co.json",
+      "category": "Finance",
+      "validation_status": "unvalidated",
+      "confidence": 0.3,
+      "source": "claimed",
+      "updated_at": "2026-04-16T11:56:42.962Z"
+    },
+    {
+      "domain": "zotero.org",
+      "filename": "zotero-org.json",
+      "category": "SaaS",
+      "validation_status": "unvalidated",
+      "confidence": null,
+      "source": "claimed",
+      "updated_at": "2026-04-15T11:59:37.224Z"
+    }
+  ]
+}

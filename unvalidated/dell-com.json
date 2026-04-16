@@ -1,0 +1,19 @@
+{
+  "service": "dell.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:29:44.359Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://dell.com//www.dell.com/en-us/lp/legal/site-terms-of-use-copyright",
+      "generated_at": "2026-04-15T18:29:44.359Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:c8d8ee1be9c4ca0277168ebacc8e0a491d6740ccc3a6a7563f8bac0319453f76"
+    }
+  },
+  "permissions": {},
+  "openterms_version": "0.3.0"
+}

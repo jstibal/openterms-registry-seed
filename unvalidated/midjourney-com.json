@@ -1,0 +1,35 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Midjourney",
+    "domain": "midjourney.com",
+    "description": "AI image generation service"
+  },
+  "policy_id": "midjourney_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": null,
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Midjourney images may not be used to train competing AI image generation models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

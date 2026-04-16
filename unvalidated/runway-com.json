@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Runway",
+    "domain": "runwayml.com",
+    "description": "AI-powered video generation and editing platform"
+  },
+  "policy_id": "runway_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Runway API available with API keys. Video generation, image-to-video, text-to-video endpoints.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Runway AI outputs may not be used to train competing video generation models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

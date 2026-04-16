@@ -1,0 +1,41 @@
+{
+  "service": "huggingface.co",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:41:12.178Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://huggingface.co/terms",
+      "generated_at": "2026-04-15T18:39:31.026Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:586c262f8f3fdd1f9e1fa67a5217a978b8dfa77d29d2413875cdeb7019ea145b"
+    }
+  },
+  "permissions": {
+    "post_content": {
+      "allowed": true,
+      "conditions": "Users may post content publicly or privately. Public content may be viewed by anyone. Private content access is controlled by the user. Company reserves right to access content for legitimate interests such as security or legal compliance.",
+      "requires_auth": true
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Company may use information for research and analysis aimed at improving Services, products, and technologies, as well as for business operations or scientific purposes.",
+      "requires_auth": false
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Requires agreement to Terms of Use and Privacy Policy. Account creation requires email address, password, and username. Optional upgrade to paid account available.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Payment information required for upgrading user or organization accounts to paid tiers.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

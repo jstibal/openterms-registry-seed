@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Databricks",
+    "domain": "databricks.com",
+    "description": "Data intelligence platform for AI and analytics"
+  },
+  "policy_id": "databricks_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Databricks REST API available. Workspace API, Jobs API, Clusters API, MLflow API. OAuth and personal access tokens.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": null,
+    "execute_code": true,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Databricks is designed for ML training workloads. Customer data used for training on customer infrastructure."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,21 @@
+{
+  "service": "linkedin.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:40:57.449Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://linkedin.com/legal/privacy",
+      "generated_at": "2026-04-15T18:37:18.233Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:f4f4b79a0dc4015494a0dc291be23ae305a885fba30b9341a4abd48cf787a13d"
+    }
+  },
+  "permissions": {
+    "create_account": true
+  },
+  "openterms_version": "0.3.0"
+}

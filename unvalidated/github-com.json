@@ -1,0 +1,64 @@
+{
+  "service": "github.com",
+  "discovery": {
+    "api_specs": [
+      {
+        "url": "https://github.com/api-docs",
+        "type": "openapi_3",
+        "description": "API specification"
+      }
+    ]
+  },
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:30:44.601Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://github.com/terms",
+      "generated_at": "2026-04-15T18:30:44.600Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:000d63b9c5d96ad7242897cf81056edbcb4add607148b21f8035937de6ca0d3a"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "scope": "GitHub API endpoints as documented",
+      "allowed": true,
+      "conditions": "Subject to GitHub API Terms (Section H). API usage must comply with rate limits and acceptable use policies. May require authentication depending on endpoint and usage level.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "scope": "All GitHub content and services",
+      "allowed": false,
+      "conditions": "Automated scraping is addressed under API Terms (Section H). Scraping beyond what the API permits or without authorization is prohibited under Acceptable Use policies.",
+      "requires_auth": false
+    },
+    "post_content": {
+      "scope": "Repositories, issues, comments, and other user-generated content",
+      "allowed": true,
+      "conditions": "User retains ownership of posted content but grants GitHub a license to host, display, and provide the service. Content must comply with Acceptable Use Policies and Community Guidelines. By posting, user grants GitHub necessary rights to provide the service.",
+      "requires_auth": true
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Users may opt out of use of their private repository content for AI/ML training. Public repository content may be used subject to applicable license terms and GitHub's policies. GitHub Copilot and related AI features are governed by separate Additional Product Terms."
+    },
+    "create_account": {
+      "scope": "Personal and Organization accounts",
+      "allowed": true,
+      "conditions": "Must be 13 years of age or older. One free Personal Account per person. Must provide accurate information. Automated account creation is prohibited.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "scope": "GitHub paid plans, Marketplace apps, and add-ons",
+      "allowed": true,
+      "conditions": "Paid plans and Marketplace purchases available. User is responsible for all fees. GitHub Marketplace subject to separate Marketplace Terms of Service.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,37 @@
+{
+  "expires": "2027-04-16",
+  "service": {
+    "name": "DALL-E",
+    "domain": "labs.openai.com",
+    "description": "DALL-E service"
+  },
+  "policy_id": "labs_openai_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "trivial_fallback",
+      "source": "batch-seed-v2",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-16T11:47:38.934Z",
+      "validated_at": "2026-04-16T11:47:39.071Z",
+      "validation_source": null,
+      "validation_status": "unvalidated",
+      "validation_confidence": 0.1
+    }
+  },
+  "permissions": {
+    "api_access": null,
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": null,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-16",
+  "openterms_version": "0.3.0"
+}

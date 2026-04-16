@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Roboflow",
+    "domain": "roboflow.com",
+    "description": "Computer vision model training and deployment platform"
+  },
+  "policy_id": "roboflow_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Roboflow API available with API keys. Dataset management, model training, and inference APIs.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": null,
+    "execute_code": true,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Training computer vision models is the core product functionality."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

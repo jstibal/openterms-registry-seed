@@ -1,0 +1,41 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "PyPI",
+    "domain": "pypi.org",
+    "description": "Python Package Index"
+  },
+  "policy_id": "pypi_org.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "PyPI JSON API and XMLRPC API publicly available. Simple repository API for package installation."
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": true,
+      "conditions": "Package data available via the PyPI JSON API and XML-RPC API. Bulk access via BigQuery dataset. Please use the API rather than scraping HTML."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Package metadata and code (under respective open source licenses) available for research."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

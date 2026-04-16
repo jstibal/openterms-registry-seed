@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Snapchat",
+    "domain": "snapchat.com",
+    "description": "Ephemeral photo and video messaging platform"
+  },
+  "policy_id": "snapchat_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Snap Kit (Login Kit, Bitmoji Kit, Creative Kit) available for developers. Marketing API for advertisers.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Snapchat content and user data may not be used to train AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": false
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

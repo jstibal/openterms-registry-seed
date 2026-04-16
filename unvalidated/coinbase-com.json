@@ -1,0 +1,36 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Coinbase",
+    "domain": "coinbase.com",
+    "description": "Cryptocurrency exchange and wallet platform"
+  },
+  "policy_id": "coinbase_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Coinbase Advanced Trade API available with API keys. Market data, order management, account management. REST and WebSocket.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": true,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": false,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

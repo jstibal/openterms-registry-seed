@@ -1,0 +1,46 @@
+{
+  "service": "wikipedia.org",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:40:53.407Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "generated_at": "2026-04-15T18:36:07.503Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:1baf2440d11f427438970de30fd1e7406ddf7ad11f385d70e30805d18de59460"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Subject to API Terms (Section 12 of ToU). Must comply with applicable rate limits and usage policies. Attribution and licensing requirements apply.",
+      "requires_auth": false
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access that disrupts services is prohibited. Bot access may be permitted under specific bot policies and community guidelines. High-volume automated access should use the API or data dumps rather than scraping.",
+      "requires_auth": false
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "Contributions must be licensed under a free and open license (e.g., CC BY-SA) or dedicated to the public domain. Users must not post illegal content, violate copyright, or harass others. Contributions are publicly and permanently available.",
+      "requires_auth": false
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "The Privacy Policy states user information will never be sold or shared with third parties for marketing purposes, and sharing is limited to specific circumstances. No explicit permission for AI/ML training on user data is granted.",
+      "requires_auth": false
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Account creation is permitted. Email address and real name are not required. Users must adhere to Terms of Use, Universal Code of Conduct, and applicable community policies.",
+      "requires_auth": false
+    }
+  },
+  "openterms_version": "0.3.0"
+}

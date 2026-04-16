@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Together AI",
+    "domain": "together.ai",
+    "description": "Platform for running and fine-tuning open-source AI models"
+  },
+  "policy_id": "together_ai.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Together AI API available with API keys. OpenAI-compatible endpoint for 100+ open source models. Fine-tuning API.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": true,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Training and fine-tuning is a core product feature. Model weights subject to individual model licenses."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

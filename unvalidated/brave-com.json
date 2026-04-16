@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Brave",
+    "domain": "brave.com",
+    "description": "Privacy-focused browser and search engine"
+  },
+  "policy_id": "brave_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Brave Search API available with API keys. Web search, image search, and news endpoints.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Brave Search results and index may not be used to train competing AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

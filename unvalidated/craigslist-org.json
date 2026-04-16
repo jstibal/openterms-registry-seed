@@ -1,0 +1,55 @@
+{
+  "service": "craigslist.org",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:40:54.291Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://www.craigslist.org/about/terms.of.use",
+      "generated_at": "2026-04-15T18:36:29.580Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:eb23d21f83e9a7dfe987b89968e5eaaa4d6e0a2cb8f91ba6dfe637311ea38755"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": false,
+      "conditions": "Access to or distribution of the CL API is prohibited unless licensed by craigslist in a separate written or electronic agreement. Users may not rent, lease, sell, publish, distribute, license, sublicense, assign, transfer, or otherwise make available the API without such a license."
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Explicitly prohibited. Users agree not to copy or collect CL content via robots, spiders, scripts, scrapers, crawlers, or any automated or manual equivalent. Aggregating, displaying, framing, copying, duplicating, reproducing, or making derivative works from CL content without express written consent is prohibited and subject to liquidated damages of $3,000 per day."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "Users must comply with CL's prohibited content policies and all referenced rules. Misleading, unsolicited, and/or unlawful postings are prohibited. By posting, users grant craigslist a perpetual, irrevocable, unlimited, worldwide, fully paid/sublicensable license to use, copy, display, distribute, and make derivative works from posted content.",
+      "requires_auth": false
+    },
+    "read_content": {
+      "allowed": true,
+      "conditions": "Limited to 1,000 pages per 24-hour period without a separate written or electronic license. Exceeding this threshold incurs liquidated damages of $0.25 per page. Must use general purpose web browsers; automated access is prohibited without a separate license.",
+      "max_frequency": "1000 pages per 24-hour period",
+      "requires_auth": false
+    },
+    "allow_training": {
+      "scope": "Content posted by users on CL",
+      "allowed": true,
+      "conditions": "By posting content, users grant craigslist a perpetual, irrevocable, unlimited, worldwide, fully paid/sublicensable license to use, copy, display, distribute, and make derivative works from that content, which may encompass AI/ML training use. The privacy policy states user data is not sold to third parties and is used to facilitate and personalize CL services and combat fraud/abuse.",
+      "requires_auth": false
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "User must be of sufficient age and capacity to be bound by the TOU, or acting on behalf of a business. Misleading or unlawful accounts are prohibited. Buying or selling accounts is prohibited.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Paid posting sections are available. Payment processed via credit card through payment processors. Users must comply with all TOU requirements.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

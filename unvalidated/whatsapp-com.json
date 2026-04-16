@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "WhatsApp",
+    "domain": "whatsapp.com",
+    "description": "End-to-end encrypted messaging application"
+  },
+  "policy_id": "whatsapp_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "WhatsApp Business API available for businesses. Cloud API hosted by Meta. On-premises API available. Rate limits and message templates required.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "Business API allows automated messaging for customer service, notifications, and templates. No spam."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

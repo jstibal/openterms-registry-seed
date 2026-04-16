@@ -1,0 +1,42 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Intercom",
+    "domain": "intercom.com",
+    "description": "Customer messaging and support platform"
+  },
+  "policy_id": "intercom_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Intercom REST API available with access tokens. Conversations, contacts, companies, events APIs.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Intercom conversation data may not be used to train competing AI models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "Automated messages, bots, and workflows are core features."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

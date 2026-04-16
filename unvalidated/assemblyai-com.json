@@ -1,0 +1,36 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "AssemblyAI",
+    "domain": "assemblyai.com",
+    "description": "AI-powered speech recognition and audio intelligence API"
+  },
+  "policy_id": "assemblyai_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "AssemblyAI REST API available with API keys. Transcription, LeMUR (LLM), sentiment analysis, summarization. Pay-per-use.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,49 @@
+{
+  "service": "netflix.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:31:04.221Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://netflix.com/terms",
+      "generated_at": "2026-04-15T18:31:04.221Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:5425644a04793f84607e90d878856b222aaa904deb24ffe32e9ddf006dd798ed"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": false,
+      "conditions": "No public API offered; automated access, robots, spiders, scrapers, or other automated means of accessing the service are explicitly prohibited without written permission from Netflix."
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Explicitly prohibited: users may not archive, reproduce, distribute, modify, display, perform, publish, license, create derivative works from, or use content obtained from the service without explicit authorization."
+    },
+    "read_content": {
+      "scope": "Personal, non-commercial use within country of account establishment",
+      "allowed": true,
+      "conditions": "For personal, non-commercial use only. Content access varies by geographic location, subscription plan, and licensing. Some content available without account; full library requires subscription.",
+      "requires_auth": false
+    },
+    "allow_training": {
+      "scope": "Personalization, recommendations, service improvement, and research using collected user data",
+      "allowed": true,
+      "conditions": "Netflix uses personal information including viewing history, interactions, search queries, and inferred interests to improve recommendations and the service. De-identified information may be used for research and analytics purposes. Personal information may be shared with service providers for these purposes."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Must be at least 18 years of age. Requires valid payment method for subscription plans. Some features accessible without account. Account sharing restricted to same household unless Extra Member add-on is purchased.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Subscription plans available with varying features. Extra Member add-ons available for users outside account holder's household. Special promotional offers subject to eligibility determined at Netflix's sole discretion.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

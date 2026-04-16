@@ -1,0 +1,41 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Microsoft",
+    "domain": "microsoft.com",
+    "tos_url": "https://www.microsoft.com/en-us/servicesagreement",
+    "description": "Technology company offering software, cloud, and AI services"
+  },
+  "policy_id": "microsoft_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Microsoft Graph API, Azure APIs, Office 365 APIs available with Microsoft Entra authentication. Developer subscriptions available.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Microsoft content and AI outputs may not be used to train competing AI models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

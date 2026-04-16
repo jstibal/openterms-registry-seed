@@ -1,0 +1,51 @@
+{
+  "service": "apple.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:30:04.324Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://apple.com/legal/terms",
+      "generated_at": "2026-04-15T18:30:04.324Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:b4b2c6bea810a73b8225add69f6e58918c87cf82038053385f156d9be1ce01a0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Developer API access is governed by separate Apple Developer Program License Agreements available at developer.apple.com. Requires enrollment in Apple Developer Program and acceptance of applicable developer terms.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated scraping or data harvesting of Apple websites and services is not permitted without explicit written authorization from Apple.",
+      "requires_auth": false
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "User-generated content subject to Support Communities Terms of Use and applicable service-specific terms. Apple reserves rights to moderate or remove content that violates community guidelines.",
+      "requires_auth": true
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Apple's privacy policy emphasizes on-device processing and states that data processed via Private Cloud Compute is never stored or accessible to Apple. Apple does not use personal data for AI/ML model training without user consent.",
+      "requires_auth": false
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Requires acceptance of Apple Media Services Terms and Conditions and iCloud Terms of Service. Users must meet minimum age requirements. Apple ID creation is subject to applicable sales policies.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Purchases subject to Apple Media Services Terms and Conditions, Sales Policies, and applicable regional consumer law rights. Apple Gift Card Terms and Conditions apply to gift card purchases.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

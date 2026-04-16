@@ -1,0 +1,73 @@
+{
+  "service": {
+    "0": "g",
+    "1": "o",
+    "2": "o",
+    "3": "g",
+    "4": "l",
+    "5": "e",
+    "6": ".",
+    "7": "c",
+    "8": "o",
+    "9": "m",
+    "name": "Google Flights",
+    "domain": "flights.google.com",
+    "description": "Google Flights — sub-service of google.com. Terms governed by google.com Terms of Service."
+  },
+  "policy_id": "flights_google_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "template",
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-16T11:51:58.674Z",
+      "validated_at": "2026-04-16T11:51:58.811Z",
+      "validation_source": null,
+      "validation_status": "unvalidated",
+      "validation_confidence": 0.9
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://google.com/intl/en/policies/terms/",
+      "generated_at": "2026-04-15T18:36:44.846Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:70e76fa1c944cd650debfe93ffdfde9dda02e11599414663765961807bfc8d69"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Access governed by separate Google API Terms of Service and applicable developer agreements. Requires API key and adherence to usage quotas and policies.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access, scraping, crawling, or data extraction is prohibited without prior written permission from Google."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "By posting content, users grant Google a broad license to use, host, reproduce, modify, and distribute that content. Content must comply with Google's policies and applicable law. Prohibited content includes illegal material, hate speech, and harassment.",
+      "requires_auth": true
+    },
+    "read_content": {
+      "allowed": true,
+      "conditions": "Personal, non-commercial use only. Content must not be reproduced, modified, or distributed without authorization. Subject to Google's Terms of Service.",
+      "requires_auth": false
+    },
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Google may use content submitted by users and data collected through services to improve and develop Google products and services, including AI and machine learning models. Users may have some controls via account settings."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Must meet minimum age requirements. One account per person; creating accounts to circumvent policies or impersonate others is prohibited. Subject to Google's Terms of Service.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Purchases subject to Google Payments Terms of Service and applicable product-specific terms. Requires a valid payment method and Google account.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

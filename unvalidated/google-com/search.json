@@ -1,0 +1,44 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Google Search",
+    "domain": "google.com/search",
+    "description": "Google Search — sub-service of google.com. Terms governed by parent Terms of Service."
+  },
+  "policy_id": "google_com_search.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "template",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z",
+      "parent_domain": "google.com"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Google Cloud APIs, Google Search API, Maps API, and many others available. API keys and OAuth required. Quotas apply per project.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Google Search results may not be scraped. Use Google Custom Search API. Google TOS prohibits automated access to services without explicit authorization."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Google content and search results may not be used to train competing AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": false,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

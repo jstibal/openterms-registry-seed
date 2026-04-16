@@ -1,0 +1,53 @@
+{
+  "service": "twitter.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:40:56.883Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://twitter.com/tos",
+      "generated_at": "2026-04-15T18:37:11.917Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:bb33635596cf056c7a300d18b95f17e6313fa59df117a3d0396223a767d088cf"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "API access is governed by separate Developer Agreement and Policy. Rate limits and tiers apply.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "You may not scrape the Services without X's express written permission."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "Content must comply with the User Agreement, X Rules, and applicable law. By posting, you grant X a broad license to use, reproduce, modify, and distribute your content.",
+      "requires_auth": true
+    },
+    "read_content": {
+      "allowed": true,
+      "conditions": "Public content is viewable and searchable. Accessing non-public content requires authentication.",
+      "requires_auth": false
+    },
+    "allow_training": {
+      "allowed": true,
+      "conditions": "X uses user data and content to improve services, including AI/ML features. Users may have some controls via privacy settings."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Users must agree to the User Agreement and comply with applicable policies and laws. Age restrictions apply.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Purchases subject to additional terms. Payment information required.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

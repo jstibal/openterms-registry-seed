@@ -1,0 +1,41 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Instagram",
+    "domain": "instagram.com",
+    "tos_url": "https://help.instagram.com/581066165581870",
+    "description": "Photo and video sharing social platform"
+  },
+  "policy_id": "instagram_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Instagram Graph API available for professional accounts. Basic Display API available for personal use. Business verification required for higher access.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access, scraping, and data harvesting are prohibited. Must use Instagram Graph API."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": false
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

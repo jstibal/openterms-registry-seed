@@ -1,0 +1,32 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Streamlit",
+    "domain": "streamlit.io",
+    "description": "Open source framework for building data apps"
+  },
+  "policy_id": "streamlit_io.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": null,
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": null,
+    "execute_code": true,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,57 @@
+{
+  "service": "reddit.com",
+  "discovery": {
+    "api_specs": [
+      {
+        "url": "https://reddit.com/api-docs",
+        "type": "openapi_3",
+        "description": "API specification"
+      }
+    ]
+  },
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:30:52.940Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://reddit.com/terms",
+      "generated_at": "2026-04-15T18:30:52.940Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:75aeeee71a120304089e3887b60534e72222ebb514a84ad2f19a65961330e422"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Subject to Reddit's Developer Terms and API Terms. Businesses accessing public Reddit content at scale must respect user privacy and anonymity.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access to Reddit content at scale requires compliance with Reddit's policies; use for surveillance, advertising datasets, or spamming is explicitly prohibited. Separate API/Developer Terms govern programmatic access."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "Users may post content and retain the ability to delete posts and comments. Doxxing and other policy violations are prohibited.",
+      "requires_auth": true
+    },
+    "read_content": {
+      "allowed": true,
+      "conditions": "Public Reddit content may be read. Businesses accessing public Reddit content at scale must respect user privacy and anonymity.",
+      "requires_auth": false
+    },
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Public Reddit data may not be used for advertising datasets or surveillance. Separate commercial data licensing agreements may govern AI/ML training use at scale."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Real name and photo are not required. Usernames and avatars are used. Users may delete their accounts and request a copy of their data.",
+      "requires_auth": false
+    }
+  },
+  "openterms_version": "0.3.0"
+}

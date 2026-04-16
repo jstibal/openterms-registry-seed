@@ -1,0 +1,51 @@
+{
+  "service": "ebay.com",
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:41:13.492Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://pages.ebay.com/payment/2.0/terms.html",
+      "generated_at": "2026-04-15T18:40:22.434Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:2e43e3e74fcc368cc55c2bff38b7f150289cb974eec140595d6af319a9afa2e3"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "API access is governed by separate eBay Developer Program terms and requires registration and authorization.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access, scraping, or data extraction is prohibited without express written authorization from eBay.",
+      "requires_auth": false
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "Content must comply with eBay's User Agreement and listing policies. By posting, users grant eBay a license to use the content in connection with eBay services.",
+      "requires_auth": true
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "eBay's Privacy Policy (section 12, eBay and AI) indicates that personal data and user-generated content may be used in connection with AI and machine learning. Users may have rights to object depending on their region.",
+      "requires_auth": false
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Users must agree to the User Agreement and applicable policies. Sellers must complete onboarding for Managed Payments, including identity verification.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Purchases subject to eBay User Agreement, Payments Terms of Use, and applicable payment processing terms. Payment methods and fees may vary by region.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,39 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Bing",
+    "domain": "bing.com",
+    "description": "Microsoft web search engine"
+  },
+  "policy_id": "bing_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Bing Search API available via Microsoft Azure. Web search, image search, news, video search. API subscription required.",
+      "requires_auth": true
+    },
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Bing search results may not be used to train AI/ML models."
+    },
+    "create_account": null,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,69 @@
+{
+  "service": {
+    "0": "a",
+    "1": "m",
+    "2": "a",
+    "3": "z",
+    "4": "o",
+    "5": "n",
+    "6": ".",
+    "7": "c",
+    "8": "o",
+    "9": "m",
+    "name": "Amazon Publisher",
+    "domain": "publisher.amazon.com",
+    "description": "Amazon Publisher — sub-service of amazon.com. Terms governed by amazon.com Terms of Service."
+  },
+  "policy_id": "publisher_amazon_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "template",
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-16T11:51:56.433Z",
+      "validated_at": "2026-04-16T11:51:56.576Z",
+      "validation_source": null,
+      "validation_status": "unvalidated",
+      "validation_confidence": 0.87
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://amazon.com/CloudValley-Ultra-Thin-Macbook-Protect-Privacy/dp/B079MCPJGH/?_encoding=UTF8&amp;pd_rd_w=jxWff&amp;content-id=amzn1.sym.f2128ffe-3407-4a64-95b5-696504f68ca1&amp;pf_rd_p=f2128ffe-3407-4a64-95b5-696504f68ca1&amp;pf_rd_r=VWNC5KPWQDWFX303FXJE&amp;pd_rd_wg=G5eeE&amp;pd_rd_r=8381a018-dbc9-4bf6-95d9-79971bcc4d20&amp;ref_=pd_hp_d_btf_crs_zg_bs_541966",
+      "generated_at": "2026-04-15T18:39:47.752Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:af2995442ba0cd3e4ed7336164faaa0ee02b2d0d2470b06b454a221ddc9c709e"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Subject to separate Amazon API or developer terms of service. Requires authorization and compliance with applicable program agreements.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated scraping, crawling, or data extraction is prohibited without express written permission from Amazon."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "User-submitted content such as reviews, ratings, and other contributions are subject to Amazon's Community Guidelines and Conditions of Use. By posting, users grant Amazon a license to use the content.",
+      "requires_auth": true
+    },
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Amazon may use data collected from user interactions, purchases, and content submissions to improve its services, recommendations, and AI/ML systems, as described in Amazon's Privacy Notice."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Must agree to Amazon Conditions of Use. Account creation subject to eligibility requirements.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Requires valid payment method and account. Purchases subject to Amazon's conditions of use and seller terms.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

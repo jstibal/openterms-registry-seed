@@ -1,0 +1,43 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Stack Overflow",
+    "domain": "stackoverflow.com",
+    "tos_url": "https://stackoverflow.com/legal/terms-of-service",
+    "description": "Developer Q&A community"
+  },
+  "policy_id": "stackoverflow_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Stack Exchange API v2.3 available. Requires API key for higher quotas. 300 requests/day unauthenticated, 10000/day with key."
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": true,
+      "conditions": "Content licensed CC BY-SA 4.0. Bulk data available via Stack Exchange Data Dump. Scraping permitted with attribution, subject to rate limits."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Content under CC BY-SA 4.0 license. Training permitted with attribution requirement."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

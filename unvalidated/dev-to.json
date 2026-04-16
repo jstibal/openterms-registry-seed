@@ -1,0 +1,36 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "DEV Community",
+    "domain": "dev.to",
+    "description": "DEV Community service"
+  },
+  "policy_id": "dev_to.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "simple",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": null,
+    "delete_data": null,
+    "modify_data": null,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "DEV Community prohibits automated scraping. Use the Forem API for programmatic access."
+    },
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": null,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

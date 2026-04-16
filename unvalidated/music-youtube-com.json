@@ -1,0 +1,44 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "YouTube Music",
+    "domain": "music.youtube.com",
+    "description": "YouTube Music — sub-service of youtube.com. Terms governed by parent Terms of Service."
+  },
+  "policy_id": "music_youtube_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "template",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z",
+      "parent_domain": "youtube.com"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "YouTube Data API v3 available with 10,000 quota units/day free. Additional quota requires request. OAuth required for user data.",
+      "requires_auth": false
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated scraping of YouTube content is prohibited. Use YouTube Data API v3 for programmatic access."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "YouTube content may not be used to train AI models without explicit written authorization from Google/YouTube."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": false
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

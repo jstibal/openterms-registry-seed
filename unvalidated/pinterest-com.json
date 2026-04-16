@@ -1,0 +1,42 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Pinterest",
+    "domain": "pinterest.com",
+    "description": "Visual discovery and inspiration platform"
+  },
+  "policy_id": "pinterest_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Pinterest API v5 available with OAuth. Read and write pins, boards, and user data. App approval required.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Scraping Pinterest is prohibited. Use the Pinterest API for programmatic access."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Pinterest content may not be used to train AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

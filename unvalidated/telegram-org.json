@@ -1,0 +1,40 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Telegram",
+    "domain": "telegram.org",
+    "tos_url": "https://telegram.org/tos",
+    "description": "Cloud-based messaging and VOIP service"
+  },
+  "policy_id": "telegram_org.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Telegram Bot API available for building bots. MTProto API available for client applications. Telegram also offers TDLib for building clients."
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": null,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": null,
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": {
+      "allowed": true,
+      "conditions": "Bots are a supported feature. No spam or bulk messaging to users who have not opted in."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

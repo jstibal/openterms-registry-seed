@@ -1,0 +1,47 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "X",
+    "domain": "x.com",
+    "tos_url": "https://x.com/en/tos",
+    "description": "Social media platform (formerly Twitter)"
+  },
+  "policy_id": "x_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "X API available with subscription tiers: Free, Basic ($100/mo), Pro ($5000/mo), Enterprise.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Scraping is prohibited. Content must be accessed via the official X API."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Prohibited without explicit written authorization from X Corp."
+    },
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": false,
+    "automated_messaging": {
+      "allowed": false,
+      "conditions": "Automation rules apply. Bots require disclosure."
+    }
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

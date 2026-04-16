@@ -1,0 +1,43 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Spotify",
+    "domain": "spotify.com",
+    "tos_url": "https://www.spotify.com/legal/end-user-agreement/",
+    "description": "Music streaming service"
+  },
+  "policy_id": "spotify_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Spotify Web API available with OAuth. Access playlists, search, playback, artist data. Rate limits apply. Development mode and quota extension available.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated access to Spotify is prohibited. Use the Spotify Web API."
+    },
+    "execute_code": null,
+    "post_content": null,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Spotify content and metadata may not be used to train AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

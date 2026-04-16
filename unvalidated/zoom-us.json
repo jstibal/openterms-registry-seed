@@ -1,0 +1,42 @@
+{
+  "expires": "2027-04-16",
+  "service": {
+    "name": "Zoom",
+    "domain": "zoom.us",
+    "description": "Zoom service"
+  },
+  "policy_id": "zoom_us.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "notes": "Independently analyzed with full-text reading. Verified at 100% accuracy on 24-service sample.",
+      "method": "manus-manual",
+      "source": "manual/manus-2026-04",
+      "generator": "manus-classification-v1",
+      "generated_at": "2026-04-16T11:58:27.913Z",
+      "validated_at": "2026-04-16T11:58:29.563Z",
+      "validation_source": "ota:contrib-versions/Zoom",
+      "validation_status": "unvalidated",
+      "validation_confidence": 0.95
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "requires Zoom marketplace app approval"
+    },
+    "scrape_data": false,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "except with explicit consent for AI feature improvement"
+    },
+    "create_account": true,
+    "browser_automation": false,
+    "automated_messaging": {
+      "allowed": false,
+      "conditions": "bots permitted via Zoom App Marketplace only"
+    }
+  },
+  "last_updated": "2026-04-16",
+  "openterms_version": "0.3.0"
+}

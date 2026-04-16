@@ -1,0 +1,36 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Confluence",
+    "domain": "confluence.atlassian.com",
+    "description": "Team wiki and knowledge base by Atlassian"
+  },
+  "policy_id": "confluence_atlassian_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "complex",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Confluence REST API available with API tokens or OAuth. Pages, spaces, users management.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": false,
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": false,
+    "create_account": true,
+    "make_purchases": null,
+    "browser_automation": null,
+    "automated_messaging": null
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}

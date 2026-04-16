@@ -1,0 +1,72 @@
+{
+  "service": "facebook.com",
+  "discovery": {
+    "api_specs": [
+      {
+        "url": "https://facebook.com/openapi.json",
+        "type": "openapi_3",
+        "description": "API specification"
+      },
+      {
+        "url": "https://facebook.com/swagger.json",
+        "type": "swagger_2",
+        "description": "API specification"
+      },
+      {
+        "url": "https://facebook.com/api-docs",
+        "type": "openapi_3",
+        "description": "API specification"
+      }
+    ]
+  },
+  "extensions": {
+    "com.openterms.meta": {
+      "source": "claimed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T18:40:56.342Z"
+    },
+    "com.openterms.generation": {
+      "method": "auto",
+      "source_url": "https://facebook.com/terms",
+      "generated_at": "2026-04-15T18:36:59.287Z",
+      "engine_version": "1.0",
+      "source_text_hash": "sha256:553517f38bfa4f281ed5898b353fe13570b9dcaa7b391fc7a4fea30dfbd1015c"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "API access is governed by separate Meta Platform Terms and Developer Policies. Developers must agree to those additional terms.",
+      "requires_auth": true
+    },
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Automated data collection, scraping, or harvesting of content or data from Meta products is prohibited without explicit written authorization."
+    },
+    "post_content": {
+      "allowed": true,
+      "conditions": "By posting content, users grant Meta a non-exclusive, royalty-free license to use, distribute, and display that content across Meta products. Content must comply with Meta's Community Standards and applicable policies.",
+      "requires_auth": true
+    },
+    "read_content": {
+      "allowed": true,
+      "conditions": "Access to Facebook content requires agreement to Meta's Terms of Service. Content is subject to privacy settings of individual users and Meta's community standards.",
+      "requires_auth": true
+    },
+    "allow_training": {
+      "allowed": true,
+      "conditions": "Meta uses personal data and user interactions to train and improve its AI/ML systems, including for personalized advertising and content recommendations. Users may have limited opt-out options via privacy settings."
+    },
+    "create_account": {
+      "allowed": true,
+      "conditions": "Users must provide accurate information, meet minimum age requirements, and agree to Meta's Terms of Service. Only one personal account per person is permitted.",
+      "requires_auth": false
+    },
+    "make_purchases": {
+      "allowed": true,
+      "conditions": "Purchases may be made through Facebook Marketplace and other Meta commerce features. Additional commerce and payment terms may apply.",
+      "requires_auth": true
+    }
+  },
+  "openterms_version": "0.3.0"
+}

@@ -1,0 +1,44 @@
+{
+  "expires": "2027-04-15",
+  "service": {
+    "name": "Amazon Games",
+    "domain": "gaming.amazon.com",
+    "description": "Amazon Games — sub-service of amazon.com. Terms governed by parent Terms of Service."
+  },
+  "policy_id": "gaming_amazon_com.terms.2026",
+  "extensions": {
+    "com.openterms.meta": {
+      "method": "template",
+      "source": "batch-seed",
+      "generator": "openterms.com/v0.3.0",
+      "generated_at": "2026-04-15T12:00:00.000Z",
+      "parent_domain": "amazon.com"
+    }
+  },
+  "permissions": {
+    "api_access": {
+      "allowed": true,
+      "conditions": "Amazon Product Advertising API available for affiliates. Selling Partner API for merchants. AWS marketplace APIs for developers.",
+      "requires_auth": true
+    },
+    "delete_data": true,
+    "modify_data": true,
+    "scrape_data": {
+      "allowed": false,
+      "conditions": "Amazon prohibits scraping product listings, prices, or any content without prior written authorization. Violations may result in IP bans and legal action."
+    },
+    "execute_code": null,
+    "post_content": true,
+    "read_content": true,
+    "allow_training": {
+      "allowed": false,
+      "conditions": "Amazon content may not be used to train competing AI/ML models."
+    },
+    "create_account": true,
+    "make_purchases": true,
+    "browser_automation": false,
+    "automated_messaging": false
+  },
+  "last_updated": "2026-04-15",
+  "openterms_version": "0.3.0"
+}
